@@ -1,0 +1,30 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-readme-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Work In Progress | README
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/wip/README.org
+:Created:  2018-03-22T21:11@Prek Leap (11.642600N-104.919210W)
+:ID:       a3136567-5b6c-4041-aab2-173b30009b5f
+:VER:      574999957.599065352
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:KBD4-1481
+:Class:    primer
+:Type:     readme
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+
+Documents outlining /the project/.
+
+
