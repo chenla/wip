@@ -1,0 +1,28 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE: Work In Progress | TOC
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Work In Progress | Table of Contents
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/wip/index.org
+:Created:  2018-03-22T21:13@Prek Leap (11.642600N-104.919210W)
+:ID:       76809b42-a83e-4928-867f-0af98fbda723
+:VER:      575000088.904688362
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:SYM2-1568
+:Class:    primer
+:Entity:   toc
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+
+ - [[./wip-plan.org][Plan of the Work]]
