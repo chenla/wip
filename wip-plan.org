@@ -73,11 +73,56 @@ Where APL focused on towns, cities and the architecture of
 builds, the scope of APPL will be to encompass as aspects of
 civilization and human existence.
 
+APPL will establish the broad patterns that can be used to
+construct generative grammars that will be described in the
+/Primer/.
+
 *Primer*: 
+
+The Primer is organized using two different models, the
+/Pace-Layer/ model, and a /Succession-Stage/ model.
+
+As in the previous two works, the Primer is not a
+prescriptive design for civilization.  Rather it is meant to
+create generate grammars that can be used to create very
+long term civilizations from first principles that is
+distributed and antifragile.
+
+So rather than include plans and designs, it will include
+standards, specifications and what we call /keystone
+reference/ designs which can be used as archetypes that can
+be adapted for a range specific needs of a ecological, economic,
+technological, and cultural niches of any given civilization. 
 
 *Hoard*
 
+A hoard is a collection of treasured goods and information.
+In Old English, the word for dictionary was a /worde hord/.
+
+A Hoard is a collection of prescriptive and descriptive
+knowledge used to build a specific civilization.  While our
+Hoard might be used to build a civilization, it is expected
+that it will be more useful as an example of how to apply
+the APPL patterns and generative grammars to build civilization.
+
+In many cases the only way to develop a keystone reference
+design is by building a number of designs for specific
+needs.  So in order for us to come up with many of the
+patterns, generative grammars and keystone designs, we will
+start with specific designs, identify what makes it work and
+what can be used as a universal principle and then work
+backwards.  The hoard will include all of this specific
+design and development work that was done to develop
+patterns and keystone designs.
+
+
+
 *Arc*
+  - territory
+  - map
+  - processes
+
+
 
 ** The Warp & Woof
 
@@ -102,9 +147,9 @@ In addition to published works, a series of projects will be
 started that will test and explore many of the ideas in the
 real world that are at the heart of the work.  Each project
 is designed to be of practical use and help materially
-improve people's today, as well as learning how these
-concepts can be incorporated into the larger goals of the
-work.
+improve people's today, as well as developing patterns,
+grammars and keystone designs that will be included in the
+Works.
 
 A few of the the initial projects that are in the planning
 stages include:
