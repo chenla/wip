@@ -132,6 +132,35 @@ and code that represents the a subset of Mankind's recorded
 memory and experience that provides the context and
 background needed to build and maintain a civilization.
 
+** The Warp & Woof
+
+
+  - Ab initio
+  - Points of View
+  - Dualities
+  - Structures
+  - Generators
+  - Boundries
+  - Estrangement
+  - Scaffolds
+  - Principles
+  - Patterns
+  - The Way
+
+** A Pace-Layer Pattern Language
+
+** A Primer
+
+** A Hoard
+
+** Arc
+
+The Archive, or Arc for short, is collection of digital
+data, texts, images, audio video, 2D and 3D vector graphics
+and code that represents the a subset of Mankind's recorded
+memory and experience that provides the context and
+background needed to build and maintain a civilization.
+
 Arc is made of three parts:
 
 Content is maintained in lossless machine understandable
@@ -181,24 +210,6 @@ most recent and popular formats.  Today these formats would
 include html, epub and pdf for text, jpeg and png for images
 etc.  If a library doesn't have or has lost an item, they
 request a copy from the Library Tier above them.
-
-
-
-** The Warp & Woof
-
-
-    - Ab initio
-    - Points of View
-    - Dualities
-    - Structures
-    - Generators
-    - Boundries
-    - Estrangement
-    - Scaffolds
-    - Principles
-    - Patterns
-    - The Way
-
 
 
 ** Supporting Projects
