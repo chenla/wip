@@ -27,11 +27,68 @@
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Introduction
+Chenla is a series of projects and published works to demonstrate a
+way of building an advanced distributed and stable technological
+civilization for Mankind from first principles.
+
+Chenla is not proposing the design of any specific civilization,
+rather, it intends to provide a generative framework for the present
+and future generations to make any number of civilizations.  The
+history of human civilization is iterative and bottom up, building on
+the civilizations that came before them.  With each iteration we learn
+a little more, and do a little better.  It is hoped that these works
+will be of use in making that process a little less random, a little
+more focused, and a lot less disruptive and destructive as it has all
+too often been in the past.
+
+The project began some fifteen years ago, with its roots going more
+than 20 years before that.  Now that the final structure is coming
+into focus, it is expected that publication, starting with the first
+volume of the first book /The Warp & Woof/ will go to press in 2020,
+with subsequent volumes going to press every year or two after that
+until completion.
+
+In addition to published works, a series of projects will be started
+that will test and explore many of the ideas in the real world that
+are at the heart of the work.  A few of the the initial projects that
+are in the planning stages include:
+
+  - rethinking education as a lifelong process of learning, mastering
+    and practicing existing and new skills.
+  - a broad research program focusing on the agricultural use of
+    grass, from bamboo for construction, clothing and paper, to
+    species of grasses used for ceral production, and others as forage
+    for megafauna in natural and managed ecosystems.
+  - development of what we are calling, Slow AI.  Developing
+    semi-autonomous machine-learning systems for monitoring and
+    managing very slow long term (spanning years, decades and
+    centuries) processes that are too slow for humans to manage.
+  - developing global-value chains that will leverage AI, robotic
+    automation and distributed systems like blockchain technologies to
+    shrink the atomic unit of global manufacturing and commerse from
+    the ubiquitious 40' Modal Shipping Container to a new unit that
+    will be about the size of a shipping pallet.
+
+In every case, each project will be designed to be of practical use in
+helping people today, as well as learning how these concepts can be
+incorporated into the larger goals of the work.
+
 
   - Warp & Woof
+    - Ab initio
+    - Points of View
+    - Dualities
+    - Structures
+    - Generators
+    - Boundries
+    - Estrangement
+    - Scaffolds
+    - Principles
+    - Patterns
+    - The Way
   - A Pace-Layer Pattern Language
   - Primer
   - Hoard
   - Arc
-
+    - Library
+    - Map
