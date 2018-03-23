@@ -73,6 +73,15 @@ Where APL focused on towns, cities and the architecture of
 builds, the scope of APPL will be to encompass as aspects of
 civilization and human existence.
 
+Another departure from APL will be that APPL will be what is
+called a /literate program/ which combines text together
+with computer software code.  The code is executed when the
+pattern is generated.  This makes it possible for patterns
+to be machine understandable.  This will be important in the
+next work in the series, /The Primer/ which will is a a
+group of /generative grammars/ which are expressed as both a
+text narrative and code.
+
 APPL will establish the broad patterns that can be used to
 construct generative grammars that will be described in the
 /Primer/.
@@ -115,13 +124,10 @@ backwards.  The hoard will include all of this specific
 design and development work that was done to develop
 patterns and keystone designs.
 
-
-
 *Arc*
-  - territory
+  - archive
   - map
-  - processes
-
+  - process
 
 
 ** The Warp & Woof
