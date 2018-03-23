@@ -125,9 +125,63 @@ design and development work that was done to develop
 patterns and keystone designs.
 
 *Arc*
-  - archive
-  - map
-  - process
+
+The Archive, or Arc for short, is collection of digital
+data, texts, images, audio video, 2D and 3D vector graphics
+and code that represents the a subset of Mankind's recorded
+memory and experience that provides the context and
+background needed to build and maintain a civilization.
+
+Arc is made of three parts:
+
+Content is maintained in lossless machine understandable
+formats.  Everything is Woven together using both using a 
+catalog based on an FRBR enity model, and a detailed set of
+semantic relationship between the contents of each item in
+the Arc to all the other items.
+
+This catalog and metadata constitutes a map or graph which
+can be managed and accessed in a graph database.
+
+The final part of Arc is a set of what we call cascading
+rule sets which contain the logic for processes that index,
+catalog and map collections in a format that is independent
+of any specific software that is used to manage an Arc.
+The software will use machine-learning and graph databases
+to maintain and access collections.
+
+Arc Organization
+
+Arcs are designed to be distributed and antifragile.  Copies
+of Arcs are divided into three different tiers, Dark Arcs
+only contain archival copies of content, maps and processes.
+They are not meant to be directly accessible by end-users
+but rather by the second tiers called Repos.  Plausible
+deniability is maintained by repos so that in the event that
+a civilization reverts to a period of /temporary insantity/
+and willfully attempts to destroy Arcs, the Dark Arcs will
+be able to keep content safe until a civilization returns to
+its senses and libraries are established to retore that has
+been destroyed.
+
+Repos maintain complete working copies of an Arc, and only
+communicates with Dark Arcs when they need to restore
+something that has been lost, or to upload new material that
+is added to the Arc.  Archives are where more of the work
+and processing takes place.  New content is converted into
+archival formats, cataloged and indexed.  End-user formats
+are generated which are then sent to the top most Tier which
+is a Library.  Libraries are any traditional physical or
+online library, repository or collection.  They can be
+anything from a city, town, university or secondary school
+library or a collection that only is available over the
+Internet.  Libraries maintain an end-user version of the
+catalog and map and manage collections of content in the
+most recent and popular formats.  Today these formats would
+include html, epub and pdf for text, jpeg and png for images
+etc.  If a library doesn't have or has lost an item, they
+request a copy from the Library Tier above them.
+
 
 
 ** The Warp & Woof
