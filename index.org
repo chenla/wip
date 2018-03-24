@@ -25,6 +25,6 @@
 :END:
 
 
- - [[./wip-institure.org][Plan for the Institute]]
+ - [[./wip-institure.org][Plan of the Institute]]
  - [[./wip-plan.org][Plan of the Work]]
  - [[./wip-projects.org][Planned Projects]]

@@ -13,7 +13,7 @@
 
 bibliography:../hoard/bib.bib
 
-* Plan for the Institute
+* Plan of the Institute
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/wip/wip-institure.org
