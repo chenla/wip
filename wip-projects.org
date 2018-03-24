@@ -11,6 +11,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:../hoard/bib.bib
 
 * Supporting Projects
 :PROPERTIES:
@@ -27,5 +28,39 @@
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Introduction
+** Supporting Projects
+
+In addition to published works, a series of projects will be
+started that will test and explore many of the ideas in the
+real world that are at the heart of the work.  Each project
+is designed to be of practical use and help materially
+improve people's life's today and their children, as well as
+developing patterns, grammars and keystone designs that will
+be included in the Works.
+
+A few of the the initial projects that are in the planning
+stages include:
+
+  - Rethinking education as a lifelong process of learning, mastering
+    and practicing existing and new skills.
+  - An interdisciplinary research program focusing on the agricultural
+    use of grass, from bamboo for construction, clothing and
+    paper, to species of grasses used for ceral production,
+    and others as forage for megafauna in natural and
+    managed ecosystems.
+  - Development of what we are calling, Slow AI.  Developing
+    semi-autonomous machine-learning systems for monitoring
+    and managing very slow long term (spanning years,
+    decades and centuries) processes that are too slow for
+    humans to manage.
+  - Rethinking global-value chains that will leverage AI,
+    robotic automation and distributed systems like
+    blockchain technologies to shrink the atomic unit of
+    global manufacturing and commerse from the ubiquitious
+    40' Modal Shipping Container to a new unit that will be
+    about the size of a shipping pallet.
+
+All existing projects in the plannign stages will be
+conducted in Cambodia and later, in Laos.
+
 
