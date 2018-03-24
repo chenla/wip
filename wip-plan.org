@@ -146,24 +146,26 @@ background needed to build and maintain a civilization.
 
   
 ** Primer
-  - Using This Book
+  - Using This Primer
   - A Generative Primer
   - Pace-Layers
     - Cosmos, Helios, Lithos, Bios, Anthros, Culture,
       Goverance, Infrastructure, Commerce, Fashion
-    - Succession Stages
-      - Stages
-    - Keystones
-      - Ecological, Economic, Cultural, Technological
-    - Using the Primer
-    - Summary of the Primer
+  - Succession Stages
+    - Stages
+  - Keystones
+    - Ecological, Economic, Cultural, Technological
+  - Using the Primer
+  - Summary of the Primer
   - Origin Story
   - Education
   -  
 
-
-
 ** Hoard
+  - Using This Hoard
+  - A Hoard for the 21st Century
+  
+  - Summary of this Hoard
 
 ** Arc
 
