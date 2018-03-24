@@ -45,29 +45,16 @@ the past.
 
 ** Works
 
-The project began some fifteen years ago, with its roots
-going more than 20 years before that.  Now that the final
-structure is coming into focus, it is expected that
-publication, starting with the first volume of the first
-book /The Warp & Woof/ will go to press in 2020, with
-subsequent volumes going to press every year or two after
-that until completion.
-
-The idea is that each work will provide the foundation
-needed to create and understand the works that come after.
-
-The principle works include:
-
 *Warp & Woof*: 
 
-An introduction to the concepts used in *A Pace-Layer Pattern
-Language* and *A Primer*
+An introduction to the concepts used in *A Pace-Layer
+Pattern Language* and *A Primer*
 
 *A Pace-Layer Pattern Language* (APPL):
 
 APPL is meant to expand on the world in Christopher
-Alexander's A Pattern Language (APL) which was published in 1977
-cite:alexander:1977pattern
+Alexander's A Pattern Language (APL) which was published in
+1977 cite:alexander:1977pattern
 
 Where APL focused on towns, cities and the architecture of
 builds, the scope of APPL will be to encompass as aspects of
@@ -213,14 +200,17 @@ request a copy from the Library Tier above them.
 
 
 ** Supporting Projects
+:PROPERTIES:
+:ID:       4ec2d566-4915-48db-bd7f-9de9597c00a7
+:END:
 
 In addition to published works, a series of projects will be
 started that will test and explore many of the ideas in the
 real world that are at the heart of the work.  Each project
 is designed to be of practical use and help materially
-improve people's today, as well as developing patterns,
-grammars and keystone designs that will be included in the
-Works.
+improve people's life's today and their children, as well as
+developing patterns, grammars and keystone designs that will
+be included in the Works.
 
 A few of the the initial projects that are in the planning
 stages include:
