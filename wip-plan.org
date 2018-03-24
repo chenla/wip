@@ -210,12 +210,21 @@ masters, another.
 There is a whole deployment framework, so that the designers
 can create this whole succession stage system.  Unlocking
 and duck tests to determine if someone is ready for the next
-stage will be a challange.  It may not only be cryptographic
+stage will be a challenge.  It may not only be cryptographic
 locking, it might well be physical.  So,  let's say that the
 last stage can only be unlocked by building a device that
 can send a signal to the moon, and a slow AI on the moon
 listening for that signal will then unlock it and allow
 downloads. 
+
+I think that the hoard is where we can start to get into a
+lot of ideas that Suarez explore -- leveraging mythos as
+both a cognitive model, and an interface.
+
+There are a lot of parallels here with both the unix
+filesystem and computer/console games.  They have to be
+woven in with the identity model, governance and a raft of
+other things.
 
 ** Arc
 
