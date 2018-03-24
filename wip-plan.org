@@ -139,6 +139,7 @@ background needed to build and maintain a civilization.
 ** A Pace-Layer Pattern Language
   - Using This Book 
   - Pattern Languages
+    - Patterns and Anti-Patterns
   - Pace-Layers
     - Cosmos, Helios, Lithos, Bios, Anthros, Culture,
       Goverance, Infrastructure, Commerce, Fashion
@@ -159,13 +160,50 @@ background needed to build and maintain a civilization.
   - Summary of the Primer
   - Origin Story
   - Education
-  -  
+  -
+
+
 
 ** Hoard
   - Using This Hoard
   - A Hoard for the 21st Century
   
   - Summary of this Hoard
+
+We need to design hoards so that users start at the
+appropriate stage and then unlock other stages as they
+progress -- so in a way this works like levels in a computer
+game.  The thing is, that unlocking a level doesn't take you
+to a new place, it just expands on where you already are.
+
+We can think of a hoard as being a book where different
+information is accessible depending on the user.  Different
+content will be available to different users at different
+stages.
+
+In the development stage everything is unlocked.
+When the Hoard is deployed (released) the permission model
+kicks in and you can only see everything if you have
+super-user privileges.
+
+Super Users can see everything all at once, or use a
+God-Mode where they can /play/ the hoard, but are
+automatically granted access and write access to
+everything.
+
+For end-users, access to each stage can be fine-grained as
+well, so that students can access it in one way, and
+masters, another.
+
+There is a whole deployment framework, so that the designers
+can create this whole succession stage system.  Unlocking
+and duck tests to determine if someone is ready for the next
+stage will be a challange.  It may not only be cryptographic
+locking, it might well be physical.  So,  let's say that the
+last stage can only be unlocked by building a device that
+can send a signal to the moon, and a slow AI on the moon
+listening for that signal will then unlock it and allow
+downloads. 
 
 ** Arc
 
