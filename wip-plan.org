@@ -119,6 +119,8 @@ and code that represents the a subset of Mankind's recorded
 memory and experience that provides the context and
 background needed to build and maintain a civilization.
 
+** Synopsis of the Work
+
 ** The Warp & Woof
 
 
@@ -135,10 +137,33 @@ background needed to build and maintain a civilization.
   - The Way
 
 ** A Pace-Layer Pattern Language
+  - Using This Book 
+  - Pattern Languages
+  - Pace-Layers
+    - Cosmos, Helios, Lithos, Bios, Anthros, Culture,
+      Goverance, Infrastructure, Commerce, Fashion
+  - Summary of the Language
 
-** A Primer
+  
+** Primer
+  - Using This Book
+  - A Generative Primer
+  - Pace-Layers
+    - Cosmos, Helios, Lithos, Bios, Anthros, Culture,
+      Goverance, Infrastructure, Commerce, Fashion
+    - Succession Stages
+      - Stages
+    - Keystones
+      - Ecological, Economic, Cultural, Technological
+    - Using the Primer
+    - Summary of the Primer
+  - Origin Story
+  - Education
+  -  
 
-** A Hoard
+
+
+** Hoard
 
 ** Arc
 
