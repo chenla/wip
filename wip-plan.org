@@ -184,6 +184,13 @@ changes.  It also means that changes are incremental, so
 that there is time for change to propagate and burn in to
 the institutions and people using them.
 
+Deployment is not global -- change deploys at the smallest
+possible scope and then propagates -- this is a safeguard
+but it also can't be avoided because civilizations are
+distributed systems.  It also means that you can test things
+on subsets of the civilization, perhaps even do A:B testing
+before rolling out globally.
+
 #+begin_quote
 With great power, comes great responsibility.
 
