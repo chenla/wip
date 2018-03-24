@@ -170,6 +170,20 @@ background needed to build and maintain a civilization.
   
   - Summary of this Hoard
 
+The Hoard is both dna and the rna (code) for the running
+processes that make up a civilization -- when you deploy a
+hoard you are triggering a process that will attempt at
+building a civilization according to the hoard's DNA.
+
+You use a primer to build a hoard -- when it's ready, you
+deploy.  A hoard is not static, it is constantly being added
+to, fixed and changed -- so it uses a continious deployment
+model where you are constantly rolling out changes in real
+time.  This means that if you fuck up, you can roll back
+changes.  It also means that changes are incremental, so
+that there is time for change to propagate and burn in to
+the institutions and people using them.
+
 #+begin_quote
 With great power, comes great responsibility.
 
