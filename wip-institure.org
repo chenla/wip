@@ -1,30 +1,31 @@
 #   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Plan for the Institute
 #+STARTUP: showall
-#+TITLE: Work In Progress | TOC
+#+TOC: headlines 4
+#+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
-* Work In Progress | Table of Contents
+* Plan for the Institute
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/wip/index.org
-:Created:  2018-03-22T21:13@Prek Leap (11.642600N-104.919210W)
-:ID:       76809b42-a83e-4928-867f-0af98fbda723
-:VER:      575000088.904688362
+:Name:     /home/deerpig/proj/chenla/wip/wip-institure.org
+:Created:  2018-03-24T20:07@Prek Leap (11.642600N-104.919210W)
+:ID:       52fbb051-cfa9-4213-971f-12bd15379363
+:VER:      575168927.016794007
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:SYM2-1568
+:BXID:     proj:ECF8-1584
 :Class:    primer
-:Entity:   toc
+:Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Introduction
 
- - [[./wip-institure.org][Plan for the Institute]]
- - [[./wip-plan.org][Plan of the Work]]
- - [[./wip-projects.org][Planned Projects]]
