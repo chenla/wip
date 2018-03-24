@@ -65,7 +65,7 @@ called a /literate program/ which combines text together
 with computer software code.  The code is executed when the
 pattern is generated.  This makes it possible for patterns
 to be machine understandable.  This will be important in the
-next work in the series, /The Primer/ which will is a a
+next work in the series, /The Primer/ which will is a 
 group of /generative grammars/ which are expressed as both a
 text narrative and code.
 
@@ -81,8 +81,8 @@ The Primer is organized using two different models, the
 As in the previous two works, the Primer is not a
 prescriptive design for civilization.  Rather it is meant to
 create generate grammars that can be used to create very
-long term civilizations from first principles that is
-distributed and antifragile.
+long term civilizations from first principles that are 
+distributed /and/ antifragile.
 
 So rather than include plans and designs, it will include
 standards, specifications and what we call /keystone
@@ -182,8 +182,6 @@ Trust but verify.
 — Ronald Reagan
 #+end_quote
 
-
-
 We need to design hoards so that users start at the
 appropriate stage and then unlock other stages as they
 progress -- so in a way this works like levels in a computer
@@ -276,44 +274,4 @@ most recent and popular formats.  Today these formats would
 include html, epub and pdf for text, jpeg and png for images
 etc.  If a library doesn't have or has lost an item, they
 request a copy from the Library Tier above them.
-
-
-** Supporting Projects
-:PROPERTIES:
-:ID:       4ec2d566-4915-48db-bd7f-9de9597c00a7
-:END:
-
-In addition to published works, a series of projects will be
-started that will test and explore many of the ideas in the
-real world that are at the heart of the work.  Each project
-is designed to be of practical use and help materially
-improve people's life's today and their children, as well as
-developing patterns, grammars and keystone designs that will
-be included in the Works.
-
-A few of the the initial projects that are in the planning
-stages include:
-
-  - Rethinking education as a lifelong process of learning, mastering
-    and practicing existing and new skills.
-  - An interdisciplinary research program focusing on the agricultural
-    use of grass, from bamboo for construction, clothing and
-    paper, to species of grasses used for ceral production,
-    and others as forage for megafauna in natural and
-    managed ecosystems.
-  - Development of what we are calling, Slow AI.  Developing
-    semi-autonomous machine-learning systems for monitoring
-    and managing very slow long term (spanning years,
-    decades and centuries) processes that are too slow for
-    humans to manage.
-  - Rethinking global-value chains that will leverage AI,
-    robotic automation and distributed systems like
-    blockchain technologies to shrink the atomic unit of
-    global manufacturing and commerse from the ubiquitious
-    40' Modal Shipping Container to a new unit that will be
-    about the size of a shipping pallet.
-
-All existing projects in the plannign stages will be
-conducted in Cambodia and later, in Laos.
-
 
