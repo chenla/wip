@@ -170,6 +170,20 @@ background needed to build and maintain a civilization.
   
   - Summary of this Hoard
 
+#+begin_quote
+With great power, comes great responsibility.
+
+— Uncle Ben
+#+end_quote
+
+#+begin_quote
+Trust but verify.
+
+— Ronald Reagan
+#+end_quote
+
+
+
 We need to design hoards so that users start at the
 appropriate stage and then unlock other stages as they
 progress -- so in a way this works like levels in a computer
