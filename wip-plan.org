@@ -28,6 +28,14 @@ bibliography:../hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+#+begin_quote
+Everything that is not forbidden by laws of nature is
+achievable, given the right knowledge.
+
+— David Deutsch 
+#+end_quote
+
+
 Chenla is a series of projects and published works to
 demonstrate a way for Mankind to build advanced distributed
 and stable technological civilization from first
