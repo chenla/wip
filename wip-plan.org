@@ -197,7 +197,36 @@ possible scope and then propagates -- this is a safeguard
 but it also can't be avoided because civilizations are
 distributed systems.  It also means that you can test things
 on subsets of the civilization, perhaps even do A:B testing
-before rolling out globally.
+before it propagates.
+
+But I also want to stress that there is no master hoard for
+a civilization.  There will be thousands if not millions of
+hoards that make it up -- different things will change in
+different places and as those changes propagate, they might
+well come into conflict with each other and, like when the
+fauna of north america came into contact with the fauna of
+south america, you'll get two different species that fill
+the same ecological niche.  One will inevitably die out to
+be replaced by the other.  The trick is, how this will work
+without the system fracturing.  At the core of the entire
+system is that conflicts must be resolved without forking
+the network.  I think that will be our greatest challenge.
+
+The system is not designed to be homogeneous, locally there
+might be any number of differences between the local here
+and the local in another place.  Again, as it should be.
+
+I think that the key here will be to ensure that the
+different p-layers have the authority to do their job, and
+ensure that systemic change is slow -- that competing ideas
+can cooexist for as long as it takes for a concensus to take
+place and for one to win out over the other.
+
+This is going to keep me awake at night for the next few
+years.
+
+
+
 
 #+begin_quote
 With great power, comes great responsibility.
