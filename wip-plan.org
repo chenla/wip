@@ -222,10 +222,11 @@ ensure that systemic change is slow -- that competing ideas
 can cooexist for as long as it takes for a concensus to take
 place and for one to win out over the other.
 
-This is going to keep me awake at night for the next few
-years.
+The problem of peaceful propagation is going to keep me
+awake many a night...
 
-
+A lot of these notes above will be moved to propagation
+section in w&w.
 
 
 #+begin_quote
@@ -276,8 +277,9 @@ listening for that signal will then unlock it and allow
 downloads. 
 
 I think that the hoard is where we can start to get into a
-lot of ideas that Suarez explore -- leveraging mythos as
-both a cognitive model, and an interface.
+lot of ideas that Suarez explored in Daemon
+cite:suarez:2009daemon -- leveraging mythos as both a
+cognitive model, and an interface.
 
 There are a lot of parallels here with both the unix
 filesystem and computer/console games.  They have to be
