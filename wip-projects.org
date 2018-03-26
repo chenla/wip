@@ -79,7 +79,7 @@ conducted in Cambodia and later, in Laos.
     dev ops support -- good income, flexible hours and
     flexible workspace.
 
-  - learn cognitive toolsets
+  - cognitive tools
     - rational thinking -- problem solving
     - learning how to learn
     - learning how to ask questions
@@ -96,6 +96,10 @@ conducted in Cambodia and later, in Laos.
     - shell scripts
     - python, ruby, javascript
     - web stack, html, css, mysql, web frameworks
+
+  - blended learning -- text and video at home, and group
+    work putting them into practice in the classroom.
+
 
   - Invite professional women in IT from developed countries
     to act as mentors, and to help develop material for the
