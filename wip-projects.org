@@ -64,3 +64,51 @@ All existing projects in the plannign stages will be
 conducted in Cambodia and later, in Laos.
 
 
+** Education
+
+  - women have it tough in IT, and women in SE Asia have
+    that plus a lot more on their plates.
+
+  - remote work -- mostly for foreign companies
+  - local jobs -- there is a dearth of qualified sysadmins
+    here, and one reason that companies aren't adopting
+    linux based technologies is the lack of qualified staff
+    to manage it.
+
+  - form shops where women can provide remote sysadmin and
+    dev ops support -- good income, flexible hours and
+    flexible workspace.
+
+  - learn cognitive toolsets
+    - rational thinking -- problem solving
+    - learning how to learn
+    - learning how to ask questions
+    - learning how to research to solve problems
+  - english communication skills
+    - speaking -- business culture and tech culture
+    - reading -- reading (Khmer or English) is not
+      considered to be an imporant skill in Cambodia.
+  - core math skills
+    - algebra, calculus, algorithms
+    - statistics 
+  - linux operating system
+  - programing
+    - shell scripts
+    - python, ruby, javascript
+    - web stack, html, css, mysql, web frameworks
+
+  - Invite professional women in IT from developed countries
+    to act as mentors, and to help develop material for the
+    course.
+  - Get companies who are known as Remote work shops to take
+    on students as interns (when they are ready).
+  - Place students as much as a year before graduating, with
+    the employer understanding that they will continue to
+    study while they work
+  - Alternately, will establish employee owned shops for
+    groups of graduates to work together.
+  - Outreach and education of local employers -- teach them
+    about how open source can help their businesses, and get
+    them to understand that flexible hours and remote
+    workers are in their interest so long as they understand
+    how to manage and do it correctly.
