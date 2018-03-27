@@ -166,9 +166,16 @@ background needed to build and maintain a civilization.
     - Ecological, Economic, Cultural, Technological
   - Using the Primer
   - Summary of the Primer
+  - -----
   - Origin Story
   - Education
-  -
+  - Tools
+  - Energy
+  - Machines
+  - Systems
+  - Agriculture
+  - Culture
+  - Commerce
 
 
 
