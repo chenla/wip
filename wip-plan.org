@@ -170,22 +170,9 @@ background needed to build and maintain a civilization.
   - -----
   - Origin Story
 
-  - Technology
-    - Tools
-    - Machines
-  - Infrastructure
-    - Education
-    - Energy
-    - Medicine
-    - Transporation
-  - Systems
-    - Agriculture
-    - Ecoculture
-    - Culture
-    - Goverance
-    - Security 
-    - Commerce
-
+  In APPL the body is made up of   patterns
+  In Primer the body is made up of 
+  In Hoard the body is made up of 
 
 ** Hoard
   - Using This Hoard
