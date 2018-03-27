@@ -162,49 +162,56 @@ background needed to build and maintain a civilization.
       Goverance, Infrastructure, Commerce, Fashion
   - Succession Stages
     - Stages
+  - Hard, Soft, Wet
   - Keystones
     - Ecological, Economic, Cultural, Technological
   - Using the Primer
   - Summary of the Primer
   - -----
   - Origin Story
-  - Education
-  - Tools
-  - Energy
-  - Medicine
-  - Machines
-  - Transporation
+
+  - Technology
+    - Tools
+    - Machines
+  - Infrastructure
+    - Education
+    - Energy
+    - Medicine
+    - Transporation
   - Systems
-  - Agriculture
-  - Ecoculture
-  - Culture
-  - Goverance
-  - Security
-  - Commerce
+    - Agriculture
+    - Ecoculture
+    - Culture
+    - Goverance
+    - Security 
+    - Commerce
+
 
 ** Hoard
   - Using This Hoard
-  - A Hoard for the 21st Century
-  
+  - A Hoard for the 21st Century  
   - Summary of this Hoard
 
-  - Tools
-
-  - Rule Sets
-
-  - Education
-  - Tools
-  - Energy
-  - Medicine
-  - Machines
-  - Transporation
+  - Technology
+    - Tools
+    - Machines
+  - Infrastructure
+    - Education
+    - Energy
+    - Atmosphere
+    - Water
+    - Medicine
+    - Transporation
+    - Settlements
+    - Structures
   - Systems
-  - Agriculture
-  - Ecoculture
-  - Culture
-  - Goverance
-  - Security 
-  - Commerce
+    - Agriculture
+    - Ecoculture
+    - Culture
+    - Goverance
+    - Security 
+    - Commerce
+
 
 The Hoard is both dna and the rna (code) for the running
 processes that make up a civilization -- when you deploy a
