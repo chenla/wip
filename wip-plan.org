@@ -153,6 +153,15 @@ background needed to build and maintain a civilization.
       Goverance, Infrastructure, Commerce, Fashion
   - Summary of the Language
 
+  - Language (patterns)
+    - Materials
+      - Raw (ore)
+      - Processed (iron)
+      - Manufactured (steel)
+    - Technology
+    - Infrafructure
+    - Systems
+
   
 ** Primer
   - Using This Primer
@@ -171,8 +180,8 @@ background needed to build and maintain a civilization.
   - Origin Story
 
   In APPL the body is made up of   patterns
-  In Primer the body is made up of 
-  In Hoard the body is made up of 
+  In Primer the body is made up of keystone
+  In Hoard the body is made up of  design 
 
 ** Hoard
   - Using This Hoard
