@@ -198,7 +198,8 @@ background needed to build and maintain a civilization.
   - Infrastructure
     - Education
     - Energy
-    - Atmosphere
+    - Environment
+      - atmo hydro litho 
     - Water
     - Medicine
     - Transporation
