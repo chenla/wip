@@ -131,7 +131,6 @@ background needed to build and maintain a civilization.
 
 ** The Warp & Woof
 
-
   - Ab initio
   - Points of View
   - Dualities
@@ -180,11 +179,7 @@ background needed to build and maintain a civilization.
   - Using the Primer
   - Summary of the Primer
   - -----
-  - Origin Story
-
-  APPL   -> pattern (concept)
-  Primer -> keystone (expression)
-  Hoard  -> design (manifestation)  
+  - Origin Story 
 
 ** Hoard
   - Using This Hoard
