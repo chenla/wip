@@ -51,6 +51,13 @@ little less random, a little more focused, and a lot less
 disruptive and destructive as it has all too often been in
 the past.
 
+#+begin_comment
+The Plan should be in two broad parts -- first, the big
+picture of how w&w appl primer and hoard work together.
+
+Then a Synopsis of each part.
+#+end_comment
+
 ** Works
 
 *Warp & Woof*: 
