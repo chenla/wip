@@ -1,0 +1,33 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: An Arc Synopsis
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:../hoard/bib.bib
+
+* An Arc Synopsis
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/wip/wip-arc-synopsis.org
+:Created:  2018-04-01T22:19@Prek Leap (11.642600N-104.919210W)
+:ID:       35916223-8290-4dce-966a-ee63b22f3ce4
+:VER:      575868050.931021864
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:TJA6-6311
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** TL;DR
+** Table of Contents
+

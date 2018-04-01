@@ -30,5 +30,6 @@
    - [[./wip-appl-synopsis.org][A Pace-Layer Pattern Language Synopsis]]
    - [[./wip-primer-synopsis.org][A Primer Synopsis]]
    - [[./wip-hoard-synopsis.org][A Hoard Synopsis]]
+   - [[./wip-arc-synopsis.org][A Arc Synopsis]]
  - [[./wip-institute.org][Plan of the Institute]]
  - [[./wip-projects.org][Planned Projects]]
