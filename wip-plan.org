@@ -134,24 +134,6 @@ and code that represents the a subset of Mankind's recorded
 memory and experience that provides the context and
 background needed to build and maintain a civilization.
 
-** Synopsis of the Work
-
-** The Warp & Woof
-
-  - Ab initio
-  - Points of View
-  - Dualities
-  - Structures
-  - Generators
-  - Boundries
-  - Estrangement
-  - Scaffolds
-    - Entities
-    - Pace-Layers
-    - Succession-Stages
-  - Principles
-  - Patterns
-  - The Way
 
 ** A Pace-Layer Pattern Language
   - Using This Book 

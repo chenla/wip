@@ -30,4 +30,18 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
+  - Ab initio
+  - Points of View
+  - Dualities
+  - Structures
+  - Generators
+  - Boundries
+  - Estrangement
+  - Scaffolds
+    - Entities
+    - Pace-Layers
+    - Succession-Stages
+  - Principles
+  - Patterns
+  - The Way
 
