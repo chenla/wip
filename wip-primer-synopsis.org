@@ -30,4 +30,18 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
+  - Using This Primer
+  - A Generative Primer
+  - Pace-Layers
+    - Cosmos, Helios, Lithos, Bios, Anthros, Culture,
+      Goverance, Infrastructure, Commerce, Fashion
+  - Succession Stages
+    - Stages
+  - Hard, Soft, Wet
+  - Keystones
+    - Ecological, Economic, Cultural, Technological
+  - Using the Primer
+  - Summary of the Primer
+  - -----
+  - Origin Story 
 
