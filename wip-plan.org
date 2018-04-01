@@ -134,10 +134,6 @@ and code that represents the a subset of Mankind's recorded
 memory and experience that provides the context and
 background needed to build and maintain a civilization.
 
-
-
-  
-
 ** Hoard
 
 The Hoard is both dna and the rna (code) for the running

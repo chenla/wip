@@ -30,4 +30,23 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
-
+ - Existential Threats
+   - Accident
+   - Benign Neglect
+   - Temporary Insanity 
+ - Architecture
+  - Aquisitions -> adding to collection
+  - Refactoring -> updating and condensing
+  - Content     -> collections
+  - Map         -> graph db index
+  - Logic       -> running ruleset 
+  - Discovery   -> interface
+  - Structure
+    - Shards
+    - Tomes
+ - Structure
+   - Dark  -- Off line -- Archival
+   - Gray  -- Nearline -- Working
+   - Light -- Online   -- Public
+ - Network
+   - slow wifi 
