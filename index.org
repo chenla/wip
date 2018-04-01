@@ -27,8 +27,8 @@
 
  - [[./wip-plan.org][Plan of the Work]]
    - [[./wip-ww-synopsis.org][Warp & Woof Synopsis]]
-   - A Pace-Layer Pattern Language Synopsis
-   - A Primer Synopsis
-   - A Hoard Synopsis
+   - [[./wip-appl-synopsis.org][A Pace-Layer Pattern Language Synopsis]]
+   - [[./wip-primer-synopsis.org][A Primer Synopsis]]
+   - [[./wip-hoard-synopsis.org][A Hoard Synopsis]]
  - [[./wip-institute.org][Plan of the Institute]]
  - [[./wip-projects.org][Planned Projects]]
