@@ -135,23 +135,6 @@ memory and experience that provides the context and
 background needed to build and maintain a civilization.
 
 
-** A Pace-Layer Pattern Language
-  - Using This Book 
-  - Pattern Languages
-    - Patterns and Anti-Patterns
-  - Pace-Layers
-    - Cosmos, Helios, Lithos, Bios, Anthros, Culture,
-      Goverance, Infrastructure, Commerce, Fashion
-  - Summary of the Language
-
-  - Language (patterns)
-    - Materials
-      - Raw (ore)
-      - Processed (iron)
-      - Manufactured (steel)
-    - Technology
-    - Infrafructure
-    - Systems
 
   
 ** Primer
