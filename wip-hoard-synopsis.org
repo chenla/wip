@@ -30,4 +30,29 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
+  - Using This Hoard
+  - A Hoard for the 21st Century  
+  - Summary of this Hoard
+
+  - Technology
+    - Tools
+    - Machines
+  - Infrastructure
+    - Education
+    - Energy
+    - Environment
+      - atmo hydro litho 
+    - Water
+    - Medicine
+    - Transporation
+    - Settlements
+    - Structures
+  - Systems
+    - Agriculture
+    - Ecoculture
+    - Culture
+    - Goverance
+    - Security 
+    - Commerce
+
 
