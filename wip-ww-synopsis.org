@@ -30,18 +30,10 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
-  - Ab initio
-  - Points of View
-  - Dualities
-  - Structures
-  - Generators
-  - Boundries
-  - Estrangement
-  - Scaffolds
-    - Entities
-    - Pace-Layers
-    - Succession-Stages
-  - Principles
-  - Patterns
-  - The Way
+  - [[../wip/wip-ww-synopsis.org][Warp & Woof Synopsis]]
+  - [[../wip/wip-appl-synopsis.org][Pace-Layer Pattern Language Synopsis]]
+  - [[../wip/wip-primer-synopsis.org][Primer Synopsis]]
+  - [[../wip/wip-hoard-synopsis.org][Hoard Synopsis]]
+  - [[../wip/wip-arc-synopsis.org][Arc Synopsis]]
+
 
