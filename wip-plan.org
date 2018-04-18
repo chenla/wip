@@ -53,7 +53,7 @@ the past.
 
 #+begin_comment
 The Plan should be in two broad parts -- first, the big
-picture of how w&w appl primer and hoard work together.
+picture of how w&w appl hoard and primer work together.
 
 Then a Synopsis of each part.
 #+end_comment
