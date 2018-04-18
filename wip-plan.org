@@ -75,46 +75,61 @@ Where APL focused on towns, cities and the architecture of
 builds, the scope of APPL will be to encompass as aspects of
 civilization and human existence.
 
+In addition to /APL/-like Patterns, APPL will include the
+following categories:
+
+  - Patterns :: Archetypal Design Patterns for structures,
+                settlements, social organization and systems. 
+  - Parameters :: Constants and Variables.
+  - Theses :: Assertions that may be moral or ethical but
+              may not be justified purely on logical or
+              evidence-based grounds. 
+  - Keystones :: Key Reference Designs and Specifications.
+
 Another departure from APL will be that APPL will be what is
 called a /literate program/ which combines text together
 with computer software code.  The code is executed when the
 pattern is generated.  This makes it possible for patterns
 to be machine understandable.  This will be important in the
-next work in the series, /The Primer/ which will is a 
+next work in the series, /The Hoard/ which will is a 
 group of /generative grammars/ which are expressed as both a
 text narrative and code.
 
 APPL will establish the broad patterns that can be used to
-construct generative grammars that will be described in the
-/Primer/.
+construct generative grammars that will be adapted to
+account for local context (conditions) in the /Hoard/.
 
-*Primer*: 
+*Hoard*: 
 
-The Primer is organized using two different models, the
+A hoard is a collection of treasured goods and information.
+In Old English, the word for dictionary was a /worde hord/.
+
+It is a combination repository under version control that
+contains the source code for generating Primers.  In a
+Platonic sense, APPL is the world of archetypes and the
+Hoard are the shadows on the wall that we can see and
+interact with. The APPL is a way of thinking globally, and a
+hoard pragmatically thinks and acts locally.
+
+Hoards are organized using two different models, the
 /Pace-Layer/ model, and a /Succession-Stage/ model.
 
-As in the previous two works, the Primer is not a
+As in the previous two works, the Hoard is not a
 prescriptive design for civilization.  Rather it is meant to
 create generate grammars that can be used to create very
 long term civilizations from first principles that are 
 distributed /and/ antifragile.
 
-So rather than include plans and designs, it will include
-standards, specifications and what we call /keystone
-reference/ designs which can be used as archetypes that can
-be adapted for a range specific needs of a ecological, economic,
-technological, and cultural niches of any given civilization. 
+A Hoard includes plans, designs, standards, specifications
+based on /keystone/ reference designs and patterns from the
+APPL which are adapted for a range specific needs of a
+ecological, economic, technological, and cultural niches of
+any given civilization.
 
-*Hoard*
+*Primer*
 
-A hoard is a collection of treasured goods and information.
-In Old English, the word for dictionary was a /worde hord/.
-
-A Hoard is a collection of prescriptive and descriptive
-knowledge used to build a specific civilization.  While our
-Hoard might be used to build a civilization, it is expected
-that it will be more useful as an example of how to apply
-the APPL patterns and generative grammars to build civilization.
+A Primer is a collection of prescriptive and descriptive
+knowledge needed to build a specific civilization.
 
 In many cases the only way to develop a keystone reference
 design is by building a number of designs for specific
@@ -122,7 +137,7 @@ needs.  So in order for us to come up with many of the
 patterns, generative grammars and keystone designs, we will
 start with specific designs, identify what makes it work and
 what can be used as a universal principle and then work
-backwards.  The hoard will include all of this specific
+backwards.  The Primer will include all of this specific
 design and development work that was done to develop
 patterns and keystone designs.
 
@@ -133,6 +148,8 @@ data, texts, images, audio video, 2D and 3D vector graphics
 and code that represents the a subset of Mankind's recorded
 memory and experience that provides the context and
 background needed to build and maintain a civilization.
+
+* NOTES
 
 ** Hoard
 
