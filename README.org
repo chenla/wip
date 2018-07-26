@@ -27,4 +27,8 @@
 
 Documents outlining /the project/.
 
+--- 
 
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/wip ]] 
+Please submit pull requests and issues there.  A read
+Only-Mirror is maintained @ [[https://github.com/chenla/wip ]]
