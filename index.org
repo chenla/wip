@@ -2,6 +2,7 @@
 #+STARTUP: showall
 #+TITLE: Work In Progress | TOC
 
+
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
@@ -9,7 +10,7 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
-* Work In Progress | Table of Contents
+* Work In Progress | Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/wip/index.org
@@ -25,11 +26,44 @@
 :END:
 
 
- - [[./wip-plan.org][Plan of the Work]]
-   - [[./wip-ww-synopsis.org][Warp & Woof Synopsis]]
-   - [[./wip-appl-synopsis.org][A Pace-Layer Pattern Language Synopsis]]
-   - [[./wip-primer-synopsis.org][A Primer Synopsis]]
-   - [[./wip-hoard-synopsis.org][A Hoard Synopsis]]
-   - [[./wip-arc-synopsis.org][A Arc Synopsis]]
- - [[./wip-institute.org][Plan of the Institute]]
- - [[./wip-projects.org][Planned Projects]]
+
+ - Warp & Woof
+   - First Facts
+     - Population
+     - Temperature
+     - Scale
+   - Eudaimonia
+   - Functional Requirements
+     - Human Scale Societies
+     - AntiFragile : Distributed & Federated
+     - Automation  : 
+     - Half-Earth (E.O. Wilson)
+     - Max Earth Pop 3B
+     - Off-Planet Heavy Industry
+     - Habitats & Multi-planet Population
+   - Toolbox
+     - Chunking
+     - Propagation
+     - Form
+     - Process
+   - Pace-Layers
+     - ROC
+     - LOC : Abstraction
+   - Succession Stacks
+   - Patterns
+ - Primer
+   - Prolegomenon : sections expand into cantos
+   - Exegesis
+     - Canto
+       - Glossa   : links & margin notes
+       - Scholia  : note -> expands into Canto, Eisegesis or Screed 
+     - Keystone Patterns
+       - Glossa
+       - Scholia
+ - Hoard
+   - Patterns
+     - Constants
+     - Variables
+     - Rules
+ - Arc
+ - Plan
