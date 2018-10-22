@@ -46,15 +46,16 @@ goes about living eudaimon (a good a virtuous life).
 I don't want to weigh in on the how here so much as what are the
 practical preconditions in terms Maslow's hierarchy that must be in
 place in order for anyone to be able to think in terms of happiness
-and virtue.  It should be noted that we will be only exploring secular
-humanistic solutions which do not require a supernatural lawgiver.
-This does not mean that one excludes the other but there will always
-be a subset of quirky divine laws that are throwbacks from a different
-age which are left over and don't make any sense today which will be
-incompatible with some religious legal frameworks, in particular
-dietary and dress restrictions that can be can be observed by
-individuals who proscribed to such belief systems but can not be
-universally imposed on others.
+and virtue.  These constitute Maslow's d-needs (deficiency needs).
+
+It should be noted that we will be only exploring secular humanistic
+solutions which do not require a supernatural lawgiver.  This does not
+mean that one excludes the other but there will always be a subset of
+quirky divine laws that are throwbacks from a different age which are
+left over and don't make any sense today which will be incompatible
+with some religious legal frameworks, in particular dietary and dress
+restrictions that can be can be observed by individuals who proscribed
+to such belief systems but can not be universally imposed on others.
 
 This will provide us with a baseline.
 
@@ -81,4 +82,30 @@ needed to keep the peace between the different factions.
 
 ** References
 
+Koltko-Rivera, M. E., Rediscovering the later version of maslow's
+hierarchy of needs: self-transcendence and opportunities for theory,
+research, and unification., Review of general psychology, 10(4), 302
+(2006). cite:koltko:2006rediscovering
 
+Heylighen, F., A cognitive-systemic reconstruction of maslow’s theory
+of self-actualization, Behavioral Science, 37(1), 39–58 (1992).
+http://dx.doi.org/10.1002/bs.3830370105 cite:heylighen:1992cognitive
+
+Maslow, A. H., New Knowledge In Human Values (1959), : Harper & Brothers.
+cite:maslow:1959human-values
+
+Maslow, A. H., Toward a psychology of being (2013), : Start Publishing LLC.
+cite:maslow:2013toward
+
+Maslow, A. H., Religions, values, and peak-experiences (compass)
+(1994), : Penguin (Non-Classics).  cite:maslow:1994religions
+
+Maslow, A. H., The farther reaches of human nature (1993), : Penguin
+(Non-Classics).  cite:maslow:1993farther
+
+Maslow, A. H., A theory of human motivation., Psychological Review,
+50(4), 370–396 (1943).  http://dx.doi.org/10.1037/h0054346
+cite:maslow:1943human-motivation
+
+Maslow, A. H., Motivation and personality (1987), : Harper.
+cite:maslow:1987motivation

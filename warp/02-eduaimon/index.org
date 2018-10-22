@@ -32,3 +32,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
 
+
+  - A Good Life
+
+    --> Maslow's Hierarchy of needs
+        SEE: https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs 
