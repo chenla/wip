@@ -31,6 +31,41 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+    "Eudaimonia depends on all the things that would make
+    us happy if we knew of their existence, but quite
+    independently of whether we do know about them.
+    — Wikipedia"
+
+The Greeks tie eudaimon to virtues which are /states of the soul/ and
+each Greek school of philosophy, the platonists, stoics and epicurians
+quibble about how one goes about livinng a virtuous life.  This was
+the original job of philosophy -- to make sense of how the world works
+(which become natural philosophy) which became science, and how one
+goes about living eudaimon (a good a virtuous life).
+
+I don't want to weigh in on the how here so much as what are the
+practical preconditions in terms Maslow's hierarchy that must be in
+place in order for anyone to be able to think in terms of happiness
+and virtue.  It should be noted that we will be only exploring secular
+humanistic solutions which do not require a supernatural lawgiver.
+This does not mean that one excludes the other but there will always
+be a subset of quirky divine laws that are throwbacks from a different
+age which are left over and don't make any sense today which will be
+incompatible with some religious legal frameworks, in particular
+dietary and dress restrictions that can be can be observed by
+individuals who proscribed to such belief systems but can not be
+universally imposed on others.
+
+This will provide us with a baseline.
+
+We can then go on to define what constitutes freedom in a
+hyper-connected technological industrial civilization.  This gives us
+the boundries and trade-offs that we must accept.
+
+Finally we can briefly explore the range of obligations and rights of
+persons living in such a society.  Many rights come with strings in
+that they must be reciprocal and 
+
 
 
 ** References
