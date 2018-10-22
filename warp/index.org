@@ -35,7 +35,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - Population
     - Temperature
     - Scale
-  - Eudaimon
+  - [[./02-eduaimon/index.org][Eudaimon]]
     "Eudaimonia depends on all the things that would make
     us happy if we knew of their existence, but quite
     independently of whether we do know about them.
