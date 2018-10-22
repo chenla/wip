@@ -38,7 +38,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 The Greeks tie eudaimon to virtues which are /states of the soul/ and
 each Greek school of philosophy, the platonists, stoics and epicurians
-quibble about how one goes about livinng a virtuous life.  This was
+quibble about how one goes about living a virtuous life.  This was
 the original job of philosophy -- to make sense of how the world works
 (which become natural philosophy) which became science, and how one
 goes about living eudaimon (a good a virtuous life).
@@ -64,7 +64,18 @@ the boundries and trade-offs that we must accept.
 
 Finally we can briefly explore the range of obligations and rights of
 persons living in such a society.  Many rights come with strings in
-that they must be reciprocal and 
+that they must be reciprocal and therefore limit the freedom of both
+parties.  Freedom is directly proportionate to the size of its
+audience -- this is largely because of edge cases, and the more edge
+cases you need to specifically cater too the more restrictive things
+get for the entire group.  It's also true that greater the need to
+make exceptions for edge cases, the less tolerent the collective body
+tends to be.  The Golden Rule works very well as is, unless someone in
+the group believes that there are exceptions and that it doesn't apply
+to everyone.  The more a community is fragmented the more rules are
+needed to keep the peace between the different factions.
+
+
 
 
 
