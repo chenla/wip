@@ -33,7 +33,38 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - [[./intro.org][Introduction]]
 
 
-  - A Good Life
+  - Baseline for A Good Life
+
+    The holarchy of Man -- exist as individual at one scale and as a
+    part at larger scales.  We exist at a scale that encompasses both
+    ourselves as individual wholes as well as members of human scale
+    groups that still retain a sense of ourselves as both an
+    individual whole and as part of a collective whole -- but this
+    doesn't scale -- scale to groups larger than human scale -- much
+    larger than dunbar's number and we no longer exist as individuals
+    we loose our humanity and sense of ourselves -- this is where bad
+    things begin to happen -- once you've moved up to scales we can't
+    comprehend and must resort to maps that strip us of ourselves and
+    our humanity.  We are designed to live in a goldilocks petri-dish
+    -- if we scale too much smaller, we're just a skin bag of water --
+    scale too much larger and we're little more than a member of a
+    herd, flock or swarm.  We no longer exist as sentient creatures
+    any more than an ant that is unknowingly crushed by a pedestrian
+    on her way to the morning market.  This is not a metaphor or
+    rhetorical device -- we are literally no longer human at scales
+    much slower or larger than the petri-dish we are designed to
+    inhabit.  The fact that we have transgressed those scales means
+    nothing because we have had to resort to creating maps to
+    understand even a small fraction of what is happening beyond our
+    human scales.  We kid ourselves that we understand, but these
+    larger structures are not directly comprehensible to us except at
+    great effort and in hindsight.
 
     --> Maslow's Hierarchy of needs
         SEE: https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs 
+
+    - d-needs
+    - c-needs (collective) 
+    - freedom : boundries and trade-offs
+    - obligations
+    - rights
