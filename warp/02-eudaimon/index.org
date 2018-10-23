@@ -16,7 +16,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Eudaimon Contents
   :PROPERTIES:
   :CUSTOM_ID:
-  :Name:      /home/deerpig/proj/chenla/wip/warp/02-eduaimon/index.org
+  :Name:      /home/deerpig/proj/chenla/wip/warp/02-eudaimon/index.org
   :Created:   2018-10-22T11:28@Prek Leap (11.642600N-104.919210W)
   :ID:        24cc33ef-6ed6-49db-9941-180665823997
   :VER:       593454603.538976012
@@ -35,15 +35,17 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Baseline
 
-I take SCALE to be the central measure of SPACE that Man can
+I take SCALE to be the primary measure of SPACE that Man can
 comprehend and inhabit; both big and small and slow and
-fast. It's the last great anthro-centrism we have yet to
-confront.  
+fast. 
+
+It's the last great anthrocentrism we have yet to confront.
 
 Copernicus nailed us to a spinning rock orbiting one of
-billions of thermonuclear candles, in one of billions of
-galaxies screaming away in all directions from an explosion
-that happened a meaningless string of zeros ago.  
+billions of thermonuclear candles, which in turn orbits one
+of billions of galaxies screaming away from each other in
+all directions from an explosion that happened a meaningless
+string of zeros ago.
 
 Darwin reluctantly grounded us as just one of a score or
 more species of Man who are related to every other living
