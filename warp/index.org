@@ -35,7 +35,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - Scale
     - Population
     - Temperature
-  - [[./02-eduaimon/index.org][Eudaimon]]
+  - [[./02-eudaimon/index.org][Eudaimon]]
   - Functional Requirements
     - Human Scale Societies
     - AntiFragile : Distributed & Federated
