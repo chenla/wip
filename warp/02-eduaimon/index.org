@@ -33,7 +33,54 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - [[./intro.org][Introduction]]
 
 
-  - Baseline for A Good Life
+  - Baseline
+
+I take SCALE to be the central measure of SPACE that Man can
+comprehend and inhabit; both big and small and slow and
+fast. It's the last great anthro-centrism we have yet to
+confront.  Face this, that there is no independence of self
+from scale, and we will be free...
+
+Stop for a moment and consider numbers -- the fingers on our
+hands and feet come easy -- our neo-cortex extends that to
+tens of ten and up until we are lost.  The chinese character
+for 10,000 dipicts a myriad of insects, a swarm or cloud too
+large to count, a magnitude impossible to comprend even
+though we know the world is made of innumerable magnitudes,
+strings of zeros we can merely count.
+
+Walk on any beach and what do you see?  A tawny stretch of
+color bordered by lapping water on one side and whatever
+passes for land on the other.  Bend down and scoop up a
+fistful of sand.  It's still too much to see more than as an
+amorphous shape. Drop the sand and look at your hand encased
+in a thin layer of wet particles still too numerous as
+anything but a course texture, a uniform gradiant with the
+odd twinkle of quartz or ground glass for effect.  Wash your
+hand in the surf then take the smallest pinch at your feet
+and smooth it flat in your palm and you might, and even then
+with some effort, see the individual grains at a scale your
+brain can process.  The world is largely shore and forest,
+not grains and trees. We understand the shore as one as we
+understand a grain of sand as one. We can crudely connect
+the two, that one is made up of inumerable instances of the
+other, but the gulf between is so wide as to be largely
+meaningless. Too much is lost in between.
+
+Copernicus nailed us to a spinning a rock orbiting a candle,
+one of billions of thermonuclear furnaces in one of billions
+of similar galaxys screaming away in all directions from an
+explosion a meaningless string of zeros ago.  Darwin
+relunctently grounded us as one of a score or more of
+species belonging to a genus of sapiens (Man) that
+
+By now you'd think we'd get the hint, that we are anything
+by exceptional.  Old habits die hard, the exceptionalism of
+mind, the illusion of consciousness, and the insistence of
+the ghost of soul, persists.
+
+
+
 
     The holarchy of Man -- exist as individual at one scale and as a
     part at larger scales.  We exist at a scale that encompasses both
