@@ -31,10 +31,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
-  - First Facts
+  - [[./01-first/index.org][First Facts]]
+    - Scale
     - Population
     - Temperature
-    - Scale
   - [[./02-eduaimon/index.org][Eudaimon]]
   - Functional Requirements
     - Human Scale Societies
