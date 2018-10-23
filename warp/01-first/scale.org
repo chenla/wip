@@ -1,11 +1,14 @@
 #   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Scale 
 #+STARTUP: showall
-#+TITLE:   First Facts Contents
+#+TOC: headlines 4
+#+PROPERTY: filename
 #+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
@@ -13,25 +16,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* First Facts Contents
+* Scale
   :PROPERTIES:
-  :CUSTOM_ID:
-  :Name:      /home/deerpig/proj/chenla/wip/warp/01-first/index.org
-  :Created:   2018-10-23T20:37@Prek Leap (11.642600N-104.919210W)
-  :ID:        2cda2458-d532-4f90-8ed1-08f77568e752
-  :VER:       593573912.735411413
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/wip/warp/01-first/scale.org
+  :Created:   2018-10-23T21:15@Prek Leap (11.642600N-104.919210W)
+  :ID:        b6895ed9-5937-40b8-b2cc-3e33e97a7ff9
+  :VER:       593576165.103732450
   :GEO:       48P-491193-1287029-15
-  :BXID:      proj:QLY6-2046
+  :BXID:      proj:HGG5-2205
   :Class:     primer
-  :Entity:    toc
-  :Status:    wip 
+  :Type:      work
+  :Status:    wip
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-  - Contents
-  - [[./abstract.org][Abstract]]
-  - [[./intro.org][Introduction]]
-  - [[./scale.org][Scale]]
-  - Population
-  - Temperature
- 
+** Scope
+** TL;DR
+** References
+
+
