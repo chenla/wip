@@ -1,0 +1,39 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Warp & Woof Abstract
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Warp & Woof Abstract
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/wip/warp/abstract.org
+  :Created:   2018-10-25T09:53@Prek Leap (11.642600N-104.919210W)
+  :ID:        cde306a0-71d1-4f25-8561-4eb6f047ef53
+  :VER:       593708077.732857849
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:IQC2-8810
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+** Scope
+
+
+
+** TL;DR
+
