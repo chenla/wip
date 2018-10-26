@@ -178,3 +178,14 @@ burned. He agreed to this with some sorrow."
 
 
 
+* References
+
+  - Beckett, S., Our exagmination round his factification for 
+    incamination of work in progress (1972), : New Directions.
+    cite:beckett:1929exagmination
+  - Ellmann, R., James Joyce (1982), : Oxford University Press.
+    cite:ellmann:1982james-joyce
+  - Joyce, J., A portrait of the artist as a young man and dubliners
+    (2004), : Barnes & Noble Books.  cite:james:2004portrait
+  - McHugh, R., Annotations to finnegans wake (1980), : John Hopkins
+    University Press.  cite:mchugh:1980annotations
