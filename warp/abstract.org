@@ -37,60 +37,62 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** TL;DR
 
-To talk of civilization is to step back so far from ourselves that
-we as individuals no longer exist.  It is to see a forest in which
-we are just another tree lost in the canopy.  Civilization is the
-totality of a way of life that manifests itself as a process stack
-with each layer representing a different rate of change and
-abstraction.
+To talk of civilization is to step back so far from ourselves that the
+individual no longer exist.  It is to see a forest in which we are
+just another tree lost in the canopy.  Civilization is the totality of
+a way of life that manifests itself as a process stack with each layer
+representing a different rate of change and abstraction.
 
    Civilization is not a built thing made from coin, brick, ego or
    other friable fare.  These things are side-effects that emerge from
    generative processes on the periphery of our awareness.  You can't
    design or plan a civilization any more than you can a tree.  You
-   can prune, graft, transplant, stunt or kill it but it can only here
-   it's own genetic perogrative to grow as best it can in the context
-   it happens to be find itself in.  With great patience you might be
-   able to train it to grow into a specific form, but invariably it
-   will outlive you and its next caretaker or the one after that will
-   tire of playing someone else's game.
+   can prune, graft, transplant, stunt or kill it but it can only
+   follow it's own genetic perogrative to grow as best it can in the
+   context it happens to be find itself in.  With great patience you
+   might be able to train it to grow into a specific form, but
+   invariably it will outlive you and its next caretaker or the one
+   after that will tire of playing someone else's game.
 
-   It is as much a physical as it is an concept, ideal and entrenched
-   habit.  Civilization should be a verb.  We /practice/ civilization
-   as much as we live within one.  Civilization is simply the
-   accumulated practice, knowledge and made things that are part and
-   parcel of cooperation. It can be thought of as a very slow mill,
-   grinding down any king, tyrant, saint, savior or god that may hold
-   sway for a lifetime or even a millennia, and reduced to grist. It's
-   a lossy process, with events and people recorded as history, which
-   is condensed into legand and eventually through weather and wear is
-   worn down into myth.  Herodotus got that, that history was not what
-   happened but what was /written/, and that a little is lost with
-   each retelling.  
+   Civilization is physical as much as it is an concept, ideal and
+   entrenched habit.  Like the noun Viking, Civilization is also a
+   verb.  We /practice/ civilization as much as we live within one.
+   Civilization is simply the accumulated practice, knowledge and made
+   things that are part and parcel of cooperation. It can be thought
+   of as a very slow mill, grinding down any king, tyrant, saint,
+   savior or god that may hold sway for a lifetime or even a
+   millennia. In the end it is all reduced to grist. It's a lossy
+   process, with events and people recorded as history, then condensed
+   into legand and eventually through wear and weathered down into
+   myth; worn smooth and familar.  Herodotus got that, that history
+   was not what happened but what was /written/, and that a little is
+   lost with each retelling.
 
    Myth is often dismissed as a fiction -- but Herodotus knew better,
    and that you had to place accounts of what was written in context
    with what was believed to produce an approximation of truth.  Myth
-   is all that remains of the past that still exists in the present.
+   as narrative, and scaffolding for WorldViews, is what's left of the
+   past, in the present.
 
-   Civilization is not a made thing so much as the accumulation of all
-   that falls on the threshing floor, collecting what has was torn
-   loose admist the /sturm und drang/, the process of the present
-   becoming something else.  As the character Hannibal Lector said,
-   "and be grateful. Our scars have the power to remind us that the
-   past was real."[fn:1]
+   Civilization is the accumulation of all that falls on the threshing
+   floor, collecting what has was torn loose admist the physicality as
+   process, of the present becoming something else.  As the character
+   Hannibal Lector said, "and be grateful. Our scars have the power to
+   remind us that the past was real."[fn:1]
 
    From here it's worth spending some time considering Vico, which, as
    the sources I cite indicate, I came to via Joyce back when I was in
    high school.  I mention this because coming to Vico via Joyce gets
    one tangled up with Bruno.  This is far from being a bad thing. But
-   to untangle Bruno from Vico Bruno we must turn to Samuel Beckett
-   who was once a close disciple of Joyce long before lapsing into the
+   to untangle Bruno from Vico we must turn to Samuel Beckett who was
+   once a close disciple of Joyce long before lapsing into the
    unspeakably obtuse terseness that is indelibly stamped on his
    mature work.  Beckett's essay "Dante... Bruno. Vico.. Joyce" is
-   about how Joyce used Vico as a structural scaffold for /Finnegans
-   Wake/ but it is, in the end Vico's thesis on the relationship
-   between civilization, history and myth.
+   ostensibly about how Joyce used Vico as a structural scaffold for
+   /Finnegans Wake/ and because Joyce cast such a wide net, it's not
+   unreasonable to include all of Vico's thesis on the relationship
+   between civilization, history and myth in the Wake, much as we are
+   doing here.
 
 
 #+begin_quote
