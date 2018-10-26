@@ -80,6 +80,18 @@ abstraction.
    "and be grateful. Our scars have the power to remind us that the
    past was real."[fn:1]
 
+   From here it's worth spending some time considering Vico, which, as
+   the sources I cite indicate, I came to via Joyce back when I was in
+   high school.  I mention this because coming to Vico via Joyce gets
+   one tangled up with Bruno.  This is far from being a bad thing. But
+   to untangle Bruno from Vico Bruno we must turn to Samuel Beckett
+   who was once a close disciple of Joyce long before lapsing into the
+   unspeakably obtuse terseness that is indelibly stamped on his
+   mature work.  Beckett's essay "Dante... Bruno. Vico.. Joyce" is
+   about how Joyce used Vico as a structural scaffold for /Finnegans
+   Wake/ but it is, in the end Vico's thesis on the relationship
+   between civilization, history and myth.
+
 
 #+begin_quote
 His division of the development of human society into three ages:
@@ -105,20 +117,20 @@ historian.  In the beginning was the thunder: the thunder set free
 Religion, in its most objective and unphilosophical form — idolatrous
 animism: Religion produced Society, and the first social men were the
 cave-dwellers, taking refuge from a passionate Nature : this primitive
-family life recieves its first impulse tpwards development from the
+family life recieves its first impulse towards development from the
 arrival of terrified vagabonds : admitted, they are the first slaves :
-growing stronger, they exact agrarian concessions, and a pespotism has
+growing stronger, they exact agrarian concessions, and a despotism has
 evolved into a primitive feudalism : the cave becomes a city, and the
 feudal system a democaracy : then an anarchy : this is corrected by a
 return to a monarchy : the last stage is a tendency towards
-interdescruction : the nations are dispersed, the the Phoenix of
-Society arises out of their ashes.  To this six-termed social
-progression corresponds a six-termed progression of human motives :
-necessity, utility, convenience, pleasure, luxury, abuse of luxury :
-and their incarnate manifestations : Polyphemus, Achilles, Caesar and
-Alexander, Tiberius, Caligula and Nero.  At this point Vico applies
-Bruno — though he takes very good care not to say so[fn:2] — and proceeds
-from rather arbitrary data to philosophical abstraction.  There is no
+interdestruction : the nations are dispersed, the Phoenix of Society
+arises out of their ashes.  To this six-termed social progression
+corresponds a six-termed progression of human motives : necessity,
+utility, convenience, pleasure, luxury, abuse of luxury : and their
+incarnate manifestations : Polyphemus, Achilles, Caesar and Alexander,
+Tiberius, Caligula and Nero.  At this point Vico applies Bruno —
+though he takes very good care not to say so[fn:2] — and proceeds from
+rather arbitrary data to philosophical abstraction.  There is no
 difference, says Bruno between the smallest possible chord and the
 smallest possible arc, no difference between the infinite circle and
 the straight line. The maxima and minima of particular contraries are
@@ -144,23 +156,23 @@ what appears to be a preordained cyclicism.  It follows that History
 is neither to be considered as a formlass structure, due exclusively
 to the achievements of individual agents, nor as possessing reality
 apart from and independent of them accomplished behind their backs in
-spite of them, the work of some superior forcem variously known  as
+spite of them, the work of some superior forcem variously known as
 Fate, Chance, Fortune, God.  Both these viewsm the materialistic and
 the transcendental, Vico rejects in favour of the rational.
-Individuality is the concretion of universality, and every
-individual action is at the same time superindividual.  The individual
-and the universal cannot be considered as indistinct from each
-other. History then, is not the result of Fate or Chance — in both
-cases the individual would be separated from his product — but the
-result of a Neccessity that is not Fate, of a Liberty that i not
-Chance (compare Dante's 'yoke of liberty').  This force he called
-Divine Providence, with his tongue, one feels, very much in his
-cheek.  And it is to this Providence that we must trace the three
-institutions common to every society : Church, Marriage, Burial.  this
-is not Boussuet's Providence, transcendental and miraculousm but
-immanent and the stuff of human life, working by natural means.
-Humanity is its work in itself.  God acts on her, but by means of
-her.  Humanity is divine, but no man is divine.
+Individuality is the concretion of universality, and every individual
+action is at the same time superindividual.  The individual and the
+universal cannot be considered as indistinct from each other. History
+then, is not the result of Fate or Chance — in both cases the
+individual would be separated from his product — but the result of a
+Neccessity that is not Fate, of a Liberty that is not Chance (compare
+Dante's 'yoke of liberty').  This force he called Divine Providence,
+with his tongue, one feels, very much in his cheek.  And it is to this
+Providence that we must trace the three institutions common to every
+society : Church, Marriage, Burial.  this is not Boussuet's
+Providence, transcendental and miraculous, but immanent and the stuff
+of human life, working by natural means.  Humanity is its work in
+itself.  God acts on her, but by means of her.  Humanity is divine,
+but no man is divine.
 
 — /Dante... Bruno. Vico.. Joyce/, Samuel Beckett (1929)
   cite:beckett:1929exagmination
