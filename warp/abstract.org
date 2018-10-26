@@ -75,10 +75,10 @@ abstraction.
 
    Civilization is not a made thing so much as the accumulation of all
    that falls on the threshing floor, collecting what has was torn
-   loose admist the /sturm und drang/ of the process of the present
+   loose admist the /sturm und drang/, the process of the present
    becoming something else.  As the character Hannibal Lector said,
-   "cherish your scars, for they are the only thing that proves that
-   the past was real."
+   "and be grateful. Our scars have the power to remind us that the
+   past was real."[fn:1]
 
 
 #+begin_quote
@@ -115,14 +115,54 @@ interdescruction : the nations are dispersed, the the Phoenix of
 Society arises out of their ashes.  To this six-termed social
 progression corresponds a six-termed progression of human motives :
 necessity, utility, convenience, pleasure, luxury, abuse of luxury :
-and their incarnate manifestations : Polyphemus, Achilles, Ceacer and
+and their incarnate manifestations : Polyphemus, Achilles, Caesar and
 Alexander, Tiberius, Caligula and Nero.  At this point Vico applies
-Bruno — though he takes very good care not to say so[fn:1] — and proceeds
+Bruno — though he takes very good care not to say so[fn:2] — and proceeds
 from rather arbitrary data to philosophical abstraction.  There is no
-difference, says Bruno
+difference, says Bruno between the smallest possible chord and the
+smallest possible arc, no difference between the infinite circle and
+the straight line. The maxima and minima of particular contraries are
+one and indifferent.  Minimal heat equals minimal cold.  Consequently
+transmutations are circular.  The principle (minimum) of cone contrary
+takes its movement from the principle (maximum) of another.  Therefore
+not only do minima coincide with the minima, the maxima with the
+maxima, but the minima with the maxima in the succession of
+transmutations.  Maximal speed is a state of rest.  The maximum of
+corruption and the minimum of generation are identical : in principle,
+corruption is generation.  And all things are ultimately identified
+with God, the universal monad, Monad of monads.  From these
+considerations Vico evolved a Science and Philosophy of History, It
+may be an amusing exercise to take an historical figure, such as
+Scipio, and label him No.3; it is of no ultimate importance.  What is
+of ultimate importanance is the recognition that the passage from
+Scipio to Caesar is as inevitable as the the passage from Caesar to
+Tiberius since the flowers of corruption in Scipio and Caesar are the
+seeds of vitality in Caesar and Tiberius.  Thus we have the spectacle
+of a human progression that depends for its movement on individuals,
+and which at the same time is independent of individuals in virtue of
+what appears to be a preordained cyclicism.  It follows that History
+is neither to be considered as a formlass structure, due exclusively
+to the achievements of individual agents, nor as possessing reality
+apart from and independent of them accomplished behind their backs in
+spite of them, the work of some superior forcem variously known  as
+Fate, Chance, Fortune, God.  Both these viewsm the materialistic and
+the transcendental, Vico rejects in favour of the rational.
+Individuality is the concretion of universality, and every
+individual action is at the same time superindividual.  The individual
+and the universal cannot be considered as indistinct from each
+other. History then, is not the result of Fate or Chance — in both
+cases the individual would be separated from his product — but the
+result of a Neccessity that is not Fate, of a Liberty that i not
+Chance (compare Dante's 'yoke of liberty').  This force he called
+Divine Providence, with his tongue, one feels, very much in his
+cheek.  And it is to this Providence that we must trace the three
+institutions common to every society : Church, Marriage, Burial.  this
+is not Boussuet's Providence, transcendental and miraculousm but
+immanent and the stuff of human life, working by natural means.
+Humanity is its work in itself.  God acts on her, but by means of
+her.  Humanity is divine, but no man is divine.
 
-
-— Dante... Bruno. Vico.. Joyce, Samuel Becket (1929)
+— /Dante... Bruno. Vico.. Joyce/, Samuel Beckett (1929)
   cite:beckett:1929exagmination
 #+end_quote
 
@@ -168,7 +208,13 @@ derived from the Latin *Civilis* "civil" and related to *Civis*
 
 * Footnotes
 
-[fn:1] James Joyce's Italian language teacher at University College,
+
+[fn:1] /Red Dragon/, Brett Ratner (director), Thomas Harris (novel),
+Ted Tally (Screenplay), Universal Pictures, 2002.  url:
+https://www.imdb.com/title/tt0289765/?ref_=ttqt_qt_tt
+
+
+[fn:2] James Joyce's Italian language teacher at University College,
 Dublin was a Jesuit named Father Charles Ghezzi.  "Ghezzi piously
 reminded Joyce that Bruno was a terrible heretic, and Joyce dryly
 rejoined, 'Yes, and he was terriby burned." — Ellmann pp.59.  Joyce
@@ -177,8 +223,6 @@ college. Other wrangle with little roundhead rogue’s eye Ghezzi. This
 time about Bruno the Nolan. Began in Italian and ended in pidgin
 English. He said Bruno was a terrible heretic. I said he was terribly
 burned. He agreed to this with some sorrow."
-
-
 
 * References
 
