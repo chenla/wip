@@ -118,7 +118,8 @@ necessity, utility, convenience, pleasure, luxury, abuse of luxury :
 and their incarnate manifestations : Polyphemus, Achilles, Ceacer and
 Alexander, Tiberius, Caligula and Nero.  At this point Vico applies
 Bruno — though he takes very good care not to say so[fn:1] — and proceeds
-from rather arbitrary data to philosophical abstraction.
+from rather arbitrary data to philosophical abstraction.  There is no
+difference, says Bruno
 
 
 — Dante... Bruno. Vico.. Joyce, Samuel Becket (1929)
@@ -144,7 +145,8 @@ marriage and burial, respectively, and followed by a short lacuna, the
 /ricorso/ (resurrection) linking the third age to the first of a
 subsequent cycle.
 
-— Annoations to /Finnegans Wake/, Roland McHugh (1980)
+— Annotations to /Finnegans Wake/, Roland McHugh (1980)
+  cite:mchugh:1980annotations 
 #+end_quote
 
 
@@ -189,3 +191,7 @@ burned. He agreed to this with some sorrow."
     (2004), : Barnes & Noble Books.  cite:james:2004portrait
   - McHugh, R., Annotations to finnegans wake (1980), : John Hopkins
     University Press.  cite:mchugh:1980annotations
+  - Giambattista Vico; Translated by Thomas Goddard Bergin, M. H. F.,
+    The new science of giambattista vico: translated from the third
+    edition (1744) (1948), : Cornell University Press.
+    cite:vico:1948new-science 
