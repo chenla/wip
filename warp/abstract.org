@@ -77,14 +77,14 @@ representing a different rate of change and abstraction.
    Civilization is the accumulation of all that falls on the threshing
    floor, collecting what has was torn loose admist the physicality as
    process, of the present becoming something else.  As the character
-   Hannibal Lector said, "and be grateful. Our scars have the power to
+   Hannibal Lector said, "be grateful. Our scars have the power to
    remind us that the past was real."[fn:1]
 
    From here it's worth spending some time considering Vico, which, as
-   the sources I cite indicate, I came to via Joyce back when I was in
-   high school.  I mention this because coming to Vico via Joyce gets
-   one tangled up with Bruno.  This is far from being a bad thing. But
-   to untangle Bruno from Vico we must turn to Samuel Beckett who was
+   the sources I cite indicate, I came to via Joyce when in high
+   school.  I mention this because coming to Vico via Joyce gets one
+   tangled up with Bruno.  This is far from being a bad thing. But to
+   untangle Bruno from Vico we must turn to Samuel Beckett who was
    once a close disciple of Joyce long before lapsing into the
    unspeakably obtuse terseness that is indelibly stamped on his
    mature work.  Beckett's essay "Dante... Bruno. Vico.. Joyce" is
@@ -93,7 +93,6 @@ representing a different rate of change and abstraction.
    unreasonable to include all of Vico's thesis on the relationship
    between civilization, history and myth in the Wake, much as we are
    doing here.
-
 
 #+begin_quote
 His division of the development of human society into three ages:
@@ -113,7 +112,17 @@ evolved a theory of the origins of poetry and language, the
 significance of myth, and the nature of barbaric civilization that
 must have appeared nothing less than an impertanant outrage against
 tradition.... [pp.4-5]
+#+end_quote
 
+This is as good a place as any to try to get a handle on /what/
+civilization is, because it's not any one thing, and there is so much
+contention and discord among historians of what constitutes a
+civilization that the term has been replaced by the bland moniker
+/complex societies/ as if stuffing it in a closet is going to make it
+go away.  Better we confront this head on. To do this, Vico's 19th
+century thesis remains a remarkably sturdy inflection point.
+
+#+begin_quote
 It is first necessary to condense the thesis of Vico, the scientific
 historian.  In the beginning was the thunder: the thunder set free
 Religion, in its most objective and unphilosophical form — idolatrous
@@ -158,7 +167,7 @@ what appears to be a preordained cyclicism.  It follows that History
 is neither to be considered as a formlass structure, due exclusively
 to the achievements of individual agents, nor as possessing reality
 apart from and independent of them accomplished behind their backs in
-spite of them, the work of some superior forcem variously known as
+spite of them, the work of some superior force, variously known as
 Fate, Chance, Fortune, God.  Both these viewsm the materialistic and
 the transcendental, Vico rejects in favour of the rational.
 Individuality is the concretion of universality, and every individual
@@ -170,7 +179,7 @@ Neccessity that is not Fate, of a Liberty that is not Chance (compare
 Dante's 'yoke of liberty').  This force he called Divine Providence,
 with his tongue, one feels, very much in his cheek.  And it is to this
 Providence that we must trace the three institutions common to every
-society : Church, Marriage, Burial.  this is not Boussuet's
+society : Church, Marriage, Burial.  This is not Boussuet's
 Providence, transcendental and miraculous, but immanent and the stuff
 of human life, working by natural means.  Humanity is its work in
 itself.  God acts on her, but by means of her.  Humanity is divine,
@@ -231,8 +240,8 @@ https://www.imdb.com/title/tt0289765/?ref_=ttqt_qt_tt
 [fn:2] James Joyce's Italian language teacher at University College,
 Dublin was a Jesuit named Father Charles Ghezzi.  "Ghezzi piously
 reminded Joyce that Bruno was a terrible heretic, and Joyce dryly
-rejoined, 'Yes, and he was terriby burned." — Ellmann pp.59.  Joyce
-later referred to the incident in /Portrait/ "Then went to
+rejoined, 'Yes, and he was terriby burned.'" — Ellmann pp.59.  Joyce
+later referred to the exchange in /Portrait/: "Then went to
 college. Other wrangle with little roundhead rogue’s eye Ghezzi. This
 time about Bruno the Nolan. Began in Italian and ended in pidgin
 English. He said Bruno was a terrible heretic. I said he was terribly
@@ -249,6 +258,10 @@ burned. He agreed to this with some sorrow."
     (2004), : Barnes & Noble Books.  cite:james:2004portrait
   - McHugh, R., Annotations to finnegans wake (1980), : John Hopkins
     University Press.  cite:mchugh:1980annotations
+  - Roberts, J. T., Herodotus: a very short introduction (2011), :
+    Oxford University Press.  cite:roberts:2011herodotus
+  - Strassler, R. B., & Herodotus, , The landmark herodotus: histories
+    (2007), : Anchor Books.  cite:strassler:2007herodotus
   - Giambattista Vico; Translated by Thomas Goddard Bergin, M. H. F.,
     The new science of giambattista vico: translated from the third
     edition (1744) (1948), : Cornell University Press.
