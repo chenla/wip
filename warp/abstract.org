@@ -37,8 +37,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** TL;DR
 
-
-
 To talk of civilization is to step back so far from ourselves that
 we as individuals no longer exist.  It is to see a forest in which
 we are just another tree lost in the canopy.  Civilization is the
@@ -46,7 +44,7 @@ totality of a way of life that manifests itself as a process stack
 with each layer representing a different rate of change and
 abstraction.
 
-   Civilization is not a built thing, made from coin, brick, ego or
+   Civilization is not a built thing made from coin, brick, ego or
    other friable fare.  These things are side-effects that emerge from
    generative processes on the periphery of our awareness.  You can't
    design or plan a civilization any more than you can a tree.  You
@@ -61,9 +59,98 @@ abstraction.
    habit.  Civilization should be a verb.  We /practice/ civilization
    as much as we live within one.  Civilization is simply the
    accumulated practice, knowledge and made things that are part and
-   parcel of cooperation. It can be thought of as very slow mill,
+   parcel of cooperation. It can be thought of as a very slow mill,
    grinding down any king, tyrant, saint, savior or god that may hold
-   sway for a lifetime or even a millennia, as little more than grist.
+   sway for a lifetime or even a millennia, and reduced to grist. It's
+   a lossy process, with events and people recorded as history, which
+   is condensed into legand and eventually through weather and wear is
+   worn down into myth.  Herodotus got that, that history was not what
+   happened but what was /written/, and that a little is lost with
+   each retelling.  
+
+   Myth is often dismissed as a fiction -- but Herodotus knew better,
+   and that you had to place accounts of what was written in context
+   with what was believed to produce an approximation of truth.  Myth
+   is all that remains of the past that still exists in the present.
+
+   Civilization is not a made thing so much as the accumulation of all
+   that falls on the threshing floor, collecting what has was torn
+   loose admist the /sturm und drang/ of the process of the present
+   becoming something else.  As the character Hannibal Lector said,
+   "cherish your scars, for they are the only thing that proves that
+   the past was real."
+
+
+#+begin_quote
+His division of the development of human society into three ages:
+Theocratic, Heroic, Human (civilized), with a corresponding
+classification of language Hieroglyphic (sacred), Metaphorical
+(poetic), Philosophical (capable of abstraction and generalisation),
+was by no means new, although it must have appeared so to his
+contemporaries.  He derived this convenient classification from the
+Eqyptions, via Herodotus.  At the same time it is impossible to deny
+the originality with which he applied and developed its implications.
+His exposition of the ineluctable circular progression of Society was
+completely new, although the germ of it was contained in Giordano
+Bruno's treatment of identified contraries.  But is in Book 2.,
+described by himself as '/tutto il corpo... la chiave masetra... dell'
+opera/', that appears the unqualified originality of his mind; here he
+evolved a theory of the origins of poetry and language, the
+significance of myth, and the nature of barbaric civilization that
+must have appeared nothing less than an impertanant outrage against
+tradition.... [pp.4-5]
+
+It is first necessary to condense the thesis of Vico, the scientific
+historian.  In the beginning was the thunder: the thunder set free
+Religion, in its most objective and unphilosophical form — idolatrous
+animism: Religion produced Society, and the first social men were the
+cave-dwellers, taking refuge from a passionate Nature : this primitive
+family life recieves its first impulse tpwards development from the
+arrival of terrified vagabonds : admitted, they are the first slaves :
+growing stronger, they exact agrarian concessions, and a pespotism has
+evolved into a primitive feudalism : the cave becomes a city, and the
+feudal system a democaracy : then an anarchy : this is corrected by a
+return to a monarchy : the last stage is a tendency towards
+interdescruction : the nations are dispersed, the the Phoenix of
+Society arises out of their ashes.  To this six-termed social
+progression corresponds a six-termed progression of human motives :
+necessity, utility, convenience, pleasure, luxury, abuse of luxury :
+and their incarnate manifestations : Polyphemus, Achilles, Ceacer and
+Alexander, Tiberius, Caligula and Nero.  At this point Vico applies
+Bruno — though he takes very good care not to say so[fn:1] — and proceeds
+from rather arbitrary data to philosophical abstraction.
+
+
+— Dante... Bruno. Vico.. Joyce, Samuel Becket (1929)
+  cite:beckett:1929exagmination
+#+end_quote
+
+
+   Where Herodotus was the father of history, it was Vico who gave a
+   philosophy of history.
+
+
+#+begin_quote
+Giambattista Vico (1668-1744) is the author of /Principi de Scienza
+Nuova/ (The New Science), in which is expounded his theory that a
+common cyclical pattern identifies the histories of diverse nations.
+The cycle consists if (i) the age of gods, represented in primitive
+society by the family life of the cave, to which God's thunder had
+driven manl (ii) the age of heroes, characterized by the continual
+revolutionary movements of the plebian against the patricians; (iii)
+the age of people, the final consequence of the levelling influence of
+revolutions. The three ages are typified by the institutions of birth,
+marriage and burial, respectively, and followed by a short lacuna, the
+/ricorso/ (resurrection) linking the third age to the first of a
+subsequent cycle.
+
+— Annoations to /Finnegans Wake/, Roland McHugh (1980)
+#+end_quote
+
+
+
+
+
 
 
 The bones of any civilization is reflected in the the word itself,
@@ -76,6 +163,18 @@ derived from the Latin *Civilis* "civil" and related to *Civis*
    respect, and politeness, terms that in today's world sound
    increasingly quaint which is a miner's canary warning us that the
    atmosphere is poisoned.
+
+* Footnotes
+
+[fn:1] James Joyce's Italian language teacher at University College,
+Dublin was a Jesuit named Father Charles Ghezzi.  "Ghezzi piously
+reminded Joyce that Bruno was a terrible heretic, and Joyce dryly
+rejoined, 'Yes, and he was terriby burned." — Ellmann pp.59.  Joyce
+later referred to the incident in /Portrait/ "Then went to
+college. Other wrangle with little roundhead rogue’s eye Ghezzi. This
+time about Bruno the Nolan. Began in Italian and ended in pidgin
+English. He said Bruno was a terrible heretic. I said he was terribly
+burned. He agreed to this with some sorrow."
 
 
 
