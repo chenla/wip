@@ -39,41 +39,43 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 
 
-To talk of civilization is to step back so far from ourselves that we
-no longer exist.  It is to see a forest in which we are just another
-tree lost in the canopy.  Civilization is the totality of a way of
-life that manifests itself as a protocol stack with each layer
-representing a different rate of change and abstraction.
+To talk of civilization is to step back so far from ourselves that
+we as individuals no longer exist.  It is to see a forest in which
+we are just another tree lost in the canopy.  Civilization is the
+totality of a way of life that manifests itself as a process stack
+with each layer representing a different rate of change and
+abstraction.
 
----
+   Civilization is not a built thing, made from coin, brick, ego or
+   other friable fare.  These things are side-effects that emerge from
+   generative processes on the periphery of our awareness.  You can't
+   design or plan a civilization any more than you can a tree.  You
+   can prune, graft, transplant, stunt or kill it but it can only here
+   it's own genetic perogrative to grow as best it can in the context
+   it happens to be find itself in.  With great patience you might be
+   able to train it to grow into a specific form, but invariably it
+   will outlive you and its next caretaker or the one after that will
+   tire of playing someone else's game.
 
-Civilization is not a built thing, made from coin, rock, ego or other
-friable fare.  These are side-effects that emerge from generative
-processes on the periphery of our awareness.  You can't design or plan
-a civilization any more than you can a tree.  You can prune, graft,
-transplant, stunt or kill it but it can only here it's own genetic
-perogrative to grow as best it can in the context it happens to be
-find itself in.  With great patience you might be able to train it to
-grow into a specific form, but invariably it will outlive you and its
-next caretaker or the one after that will tire of playing someone
-else's game.
+   It is as much a physical as it is an concept, ideal and entrenched
+   habit.  Civilization should be a verb.  We /practice/ civilization
+   as much as we live within one.  Civilization is simply the
+   accumulated practice, knowledge and made things that are part and
+   parcel of cooperation. It can be thought of as very slow mill,
+   grinding down any king, tyrant, saint, savior or god that may hold
+   sway for a lifetime or even a millennia, as little more than grist.
+
 
 The bones of any civilization is reflected in the the word itself,
-derived from the Latin /Civilis/ "civil" and related to /Civis/
-"citizen" and /Civitas/ "city".  It is as much a physical as it is an
-concept, ideal and entrenched habit.  It should be a verb -- we
-/practice/ civilization as much as we live within one.  Civilization
-is simply the accumulated practice, knowledge and made things that are
-part and parcel of cooperation. It can be thought of as very slow
-mill, grinding down any king, tyrant, saint, savior or god that may
-hold sway for a lifetime or even a millennia, as little more than
-grist.
+derived from the Latin *Civilis* "civil" and related to *Civis*
+"citizen" and *Civitas* "city".
 
-Our ability to survive as individuals and as societies is directly
-proportionate to how well we cooperate with each other.  Cooperation
-requires compromise and something more courtesy, respect, and
-politeness, terms that in today's world sound increasingly quaint
-which is a miner's canary warning us that the atmosphere is poisoned.
+   Our ability to survive as individuals and as societies is directly
+   proportionate to how well we cooperate with each other.
+   Cooperation requires compromise and something more courtesy,
+   respect, and politeness, terms that in today's world sound
+   increasingly quaint which is a miner's canary warning us that the
+   atmosphere is poisoned.
 
 
 
