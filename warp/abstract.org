@@ -176,7 +176,7 @@ rather arbitrary data to philosophical abstraction.  There is no
 difference, says Bruno between the smallest possible chord and the
 smallest possible arc, no difference between the infinite circle and
 the straight line. The maxima and minima of particular contraries are
-one and indifferent.  Minimal heat equals minimal cold.  Consequently
+one and indifferent. Minimal heat equals minimal cold. Consequently
 transmutations are circular.  The principle (minimum) of cone contrary
 takes its movement from the principle (maximum) of another.  Therefore
 not only do minima coincide with the minima, the maxima with the
@@ -188,18 +188,18 @@ with God, the universal monad, Monad of monads.  From these
 considerations Vico evolved a Science and Philosophy of History, It
 may be an amusing exercise to take an historical figure, such as
 Scipio, and label him No.3; it is of no ultimate importance.  What is
-of ultimate importanance is the recognition that the passage from
+of ultimate importance is the recognition that the passage from
 Scipio to Caesar is as inevitable as the the passage from Caesar to
 Tiberius since the flowers of corruption in Scipio and Caesar are the
 seeds of vitality in Caesar and Tiberius.  Thus we have the spectacle
 of a human progression that depends for its movement on individuals,
 and which at the same time is independent of individuals in virtue of
 what appears to be a preordained cyclicism.  It follows that History
-is neither to be considered as a formlass structure, due exclusively
+is neither to be considered as a formless structure, due exclusively
 to the achievements of individual agents, nor as possessing reality
 apart from and independent of them accomplished behind their backs in
 spite of them, the work of some superior force, variously known as
-Fate, Chance, Fortune, God.  Both these viewsm the materialistic and
+Fate, Chance, Fortune, God.  Both these views, the materialistic and
 the transcendental, Vico rejects in favour of the rational.
 Individuality is the concretion of universality, and every individual
 action is at the same time superindividual.  The individual and the
@@ -271,24 +271,6 @@ derived from the Latin *Civilis* "civil" and related to *Civis*
    increasingly quaint which is a miner's canary warning us that the
    atmosphere is poisoned.
 
-* Footnotes
-
-
-[fn:1] /Red Dragon/, Brett Ratner (director), Thomas Harris (novel),
-Ted Tally (Screenplay), Universal Pictures, 2002.  url:
-https://www.imdb.com/title/tt0289765/?ref_=ttqt_qt_tt
-
-
-[fn:2] James Joyce's Italian language teacher at University College,
-Dublin was a Jesuit named Father Charles Ghezzi.  "Ghezzi piously
-reminded Joyce that Bruno was a terrible heretic, and Joyce dryly
-rejoined, 'Yes, and he was terriby burned.'" — Ellmann pp.59.  Joyce
-later referred to the exchange in /Portrait/: "Then went to
-college. Other wrangle with little roundhead rogue’s eye Ghezzi. This
-time about Bruno the Nolan. Began in Italian and ended in pidgin
-English. He said Bruno was a terrible heretic. I said he was terribly
-burned. He agreed to this with some sorrow."
-
 * References
 
   - Alexander, C., The timeless way of building (1979), : Oxford
@@ -310,8 +292,6 @@ burned. He agreed to this with some sorrow."
     Oxford University Press.  cite:roberts:2011herodotus
   - Strassler, R. B., & Herodotus, , The landmark herodotus: histories
     (2007), : Anchor Books.  cite:strassler:2007herodotus
-
-
 
 ** Japanese Aesthetics
 
@@ -359,3 +339,21 @@ burned. He agreed to this with some sorrow."
   - Tsubaki, A. T., Zeami and the transition of the concept of
     y\=ugen: a note on japanese aesthetics, Journal of Aesthetics and
     Art Criticism, (), 55–67 (1971).  cite:tsubaki:1971zeami
+
+* Footnotes
+
+
+[fn:1] /Red Dragon/, Brett Ratner (director), Thomas Harris (novel),
+Ted Tally (Screenplay), Universal Pictures, 2002.  url:
+https://www.imdb.com/title/tt0289765/?ref_=ttqt_qt_tt
+
+
+[fn:2] James Joyce's Italian language teacher at University College,
+Dublin was a Jesuit named Father Charles Ghezzi.  "Ghezzi piously
+reminded Joyce that Bruno was a terrible heretic, and Joyce dryly
+rejoined, 'Yes, and he was terriby burned.'" — Ellmann pp.59.  Joyce
+later referred to the exchange in /Portrait/: "Then went to
+college. Other wrangle with little roundhead rogue’s eye Ghezzi. This
+time about Bruno the Nolan. Began in Italian and ended in pidgin
+English. He said Bruno was a terrible heretic. I said he was terribly
+burned. He agreed to this with some sorrow."
