@@ -298,6 +298,10 @@ burned. He agreed to this with some sorrow."
     cite:beckett:1929exagmination
   - Ellmann, R., James Joyce (1982), : Oxford University Press.
     cite:ellmann:1982james-joyce
+  - Giambattista Vico; Translated by Thomas Goddard Bergin, M. H. F.,
+    The new science of giambattista vico: translated from the third
+    edition (1744) (1948), : Cornell University Press.
+    cite:vico:1948new-science 
   - Joyce, J., A portrait of the artist as a young man and dubliners
     (2004), : Barnes & Noble Books.  cite:james:2004portrait
   - McHugh, R., Annotations to finnegans wake (1980), : John Hopkins
@@ -306,10 +310,6 @@ burned. He agreed to this with some sorrow."
     Oxford University Press.  cite:roberts:2011herodotus
   - Strassler, R. B., & Herodotus, , The landmark herodotus: histories
     (2007), : Anchor Books.  cite:strassler:2007herodotus
-  - Giambattista Vico; Translated by Thomas Goddard Bergin, M. H. F.,
-    The new science of giambattista vico: translated from the third
-    edition (1744) (1948), : Cornell University Press.
-    cite:vico:1948new-science 
 
 
 
