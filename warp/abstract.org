@@ -80,31 +80,31 @@ representing a different rate of change and abstraction.
    Hannibal Lector said, "be grateful. Our scars have the power to
    remind us that the past was real."[fn:1]
 
-This doesn't get us on the same page when talking about the /idea/ of
-civilization which has devolved into an ink blot test which is
-perfectly subjective and perfectly useless.  Civilization is a classic
-paradigm as laid down by Kahn in Revolution.  It defies definition.
-We can only chew around the edges and gradually build up a mental
-model around which we can reach a collective consensus. Paradigms
-aren't neat and tidy, they are amorphous opaque clouds with fuzzy
-boundries which is in constant churn.
+This doesn't help get us on the same page when talking about the
+/idea/ of civilization which has devolved into an ink blot test which
+is perfectly subjective and perfectly useless.  Civilization is a
+classic paradigm as laid down by Kahn in Revolution.  It defies
+definition.  We can only chew around the edges and gradually build up
+a mental model around which can collectively reach consensus.
+Paradigms aren't neat and tidy, they are amorphous territories, like
+clouds seen up close from an aircraft, constantly shape shifting, with
+no clear boundries or substance.
 
-   We need a place to start, so from here it's worth spending some
-   time considering Vico, which, as the sources I cite indicate, I
-   came to via Joyce when in high school.  I mention this because
-   coming to Vico via Joyce gets one tangled up with Bruno.  This is
-   far from being a bad thing. So to untangle Bruno from Vico turn to
-   Samuel Beckett who was once a close disciple of Joyce long before
-   lapsing into the unspeakably obtuse terseness that is indelibly
-   stamped on his mature work.  Beckett's essay
+   Since we need a place to start, it's worth spending some time
+   considering Vico, which, as the sources I cite indicate, I came to
+   via Joyce when in high school.  I mention this because coming to
+   Vico via Joyce gets one tangled up with Bruno. To untangle Bruno
+   from Vico we turn to Samuel Beckett who was once a close disciple
+   of Joyce long before lapsing into the unspeakably obtuse terseness
+   that is indelibly stamped on his mature work.  Beckett's essay
    "Dante... Bruno. Vico.. Joyce" is ostensibly about how Joyce used
    Vico as a structural scaffold for /Finnegans Wake/.  The Wake cast
    such a wide net that it's not unreasonable to include Beckett's
-   summary of Vico's thesis, so we too can use it as a place to begin
-   and hang our hat on.
+   summary of Vico's thesis here, so we too can use it as a place to
+   begin and hang our hat on.
 
 #+begin_quote
-His division of the development of human society into three ages:
+[Vico's] division of the development of human society into three ages:
 Theocratic, Heroic, Human (civilized), with a corresponding
 classification of language Hieroglyphic (sacred), Metaphorical
 (poetic), Philosophical (capable of abstraction and generalisation),
@@ -198,6 +198,17 @@ but no man is divine.
   cite:beckett:1929exagmination
 #+end_quote
 
+Before we can unpack this it is important to understand that our
+intent is to propose a new paradigm for human scale technological
+civilization.  The goal is to breath life into, not box in, so that we
+are left with a pragmatic model for building generative grammars that
+will give us a human scale civilization that provides the
+prerequisites for Mankind as a whole, and each Person that is part of
+that whole, a realistic chance of living a good life.
+
+
+
+--------
 
    Where Herodotus was the father of history, it was Vico who gave a
    philosophy of history.
