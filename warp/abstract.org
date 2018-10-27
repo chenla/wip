@@ -33,6 +33,27 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
+The Quality That Has A Name
+
+
+In the timeless way of building, Christopher Alexander described
+something he called /the quality without a name/ (QWAN).
+
+It has a name, just not in English.
+
+ - wabi-sabi (侘寂)
+   - Fukinsei (不均斉): asymmetry, irregularity;
+   - Kanso (簡素): simplicity;
+   - Koko (考古): basic, weathered;
+   - Shizen (自然): without pretense, natural;
+   - Yūgen (幽玄): subtly profound grace, not obvious;
+   - Datsuzoku (脱俗): unbounded by convention, free;
+   - Seijaku (静寂): tranquility, silence.
+
+https://plato.stanford.edu/entries/japanese-aesthetics/
+https://en.m.wikipedia.org/wiki/Japanese_aesthetics
+https://en.m.wikipedia.org/wiki/Wabi-sabi
+https://nobleharbor.com/tea/chado/WhatIsWabi-Sabi.htm
 
 
 ** TL;DR
