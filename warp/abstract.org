@@ -55,6 +55,7 @@ https://en.m.wikipedia.org/wiki/Japanese_aesthetics
 https://en.m.wikipedia.org/wiki/Wabi-sabi
 https://nobleharbor.com/tea/chado/WhatIsWabi-Sabi.htm
 
+cite:brecher:2013strangeness,koren:1994wabi-sabi,juniper:2003wabi-sabi,lawrence:2011imperfect,izutsu:1981beauty,richie:2007tractate,mandoki:2007everyday,saito:2017familiar,saito:2008everyday,marra:1999modern,marra:2010essays-japan,marra:2007norinaga,kenko:2013idleness
 
 ** TL;DR
 
@@ -307,3 +308,36 @@ burned. He agreed to this with some sorrow."
     The new science of giambattista vico: translated from the third
     edition (1744) (1948), : Cornell University Press.
     cite:vico:1948new-science 
+
+** Japanese Aesthetics
+
+  - Brecher, W. P., The aesthetics of strangeness: eccentricity and
+    madness in early modern japan (2013), : University of Hawaii
+    Press.  cite:brecher:2013strangeness
+  - Koren, L., Wabi-sabi: for artists, designers, poets & philosophers
+    (1994), : Stone Bridge Press.  cite:koren:1994wabi-sabi
+  - Juniper, A., Wabi sabi: the japanese art of impermanence (2003), :
+    Tuttle Publishing.  cite:juniper:2003wabi-sabi
+  - Lawrence, R. G., Simply imperfect : revisiting the wabi-sabi house
+    (2011), : New Society Publishers.  cite:lawrence:2011imperfect
+  - Izutsu, T., & Izutsu, T., The theory of beauty in the classical
+    aesthetics of japan (1981), : Springer Netherlands.
+    cite:izutsu:1981beauty
+  - Richie, D., A tractate on japanese aesthetics (2007), : Stone
+    Bridge Press.  cite:richie:2007tractate
+  - Mandoki, K., Everyday Aesthetics (2007), : Routledge.
+    cite:mandoki:2007everyday
+  - Saito, Y., Aesthetics of the familiar : everyday life and
+    world-making (2017), : Oxford University Press.
+    cite:saito:2017familiar
+  - Saito, Y., Everyday Aesthetics (2008), : Oxford Unifersity Press.
+    cite:saito:2008everyday
+  - Marra, M. F., Modern japanese aesthetics: a reader (1999), :
+    University of Hawaii Press.  cite:marra:1999modern
+  - Marra, M. F., Essays on japan : between aesthetics and literature
+    (2010), : Brill.  cite:marra:2010essays-japan
+  - Marra, M. F., & Marra, M. F., The poetics of motoori norinaga: a
+    hermeneutical journey (2007), : University of Hawaii Press.
+    cite:marra:2007norinaga
+  - Kamo, C., McKinney, M., & Yoshida, K., Essays in idleness and
+    hōjōki (2013), : Penguin Classics.  cite:kenko:2013idleness
