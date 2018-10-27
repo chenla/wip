@@ -291,6 +291,8 @@ burned. He agreed to this with some sorrow."
 
 * References
 
+  - Alexander, C., The timeless way of building (1979), : Oxford
+    University Press.  cite:alexander:1979timeless
   - Beckett, S., Our exagmination round his factification for 
     incamination of work in progress (1972), : New Directions.
     cite:beckett:1929exagmination
@@ -309,11 +311,20 @@ burned. He agreed to this with some sorrow."
     edition (1744) (1948), : Cornell University Press.
     cite:vico:1948new-science 
 
+
+
 ** Japanese Aesthetics
 
   - Brecher, W. P., The aesthetics of strangeness: eccentricity and
     madness in early modern japan (2013), : University of Hawaii
     Press.  cite:brecher:2013strangeness
+  - Brecher, W. P., The aesthetics of strangeness: eccentricity and
+    madness in early modern japan (2013), : University of Hawaii
+    Press.  cite:brecher:2013strangeness
+  - Kamo, C., McKinney, M., & Yoshida, K., Essays in idleness and
+    hōjōki (2013), : Penguin Classics.  cite:kenko:2013idleness
+  - Keene, D., Japanese aesthetics, Philosophy East and West, 19(3),
+    293–306 (1969).  cite:keene:1969japanese
   - Koren, L., Wabi-sabi: for artists, designers, poets & philosophers
     (1994), : Stone Bridge Press.  cite:koren:1994wabi-sabi
   - Juniper, A., Wabi sabi: the japanese art of impermanence (2003), :
@@ -323,15 +334,8 @@ burned. He agreed to this with some sorrow."
   - Izutsu, T., & Izutsu, T., The theory of beauty in the classical
     aesthetics of japan (1981), : Springer Netherlands.
     cite:izutsu:1981beauty
-  - Richie, D., A tractate on japanese aesthetics (2007), : Stone
-    Bridge Press.  cite:richie:2007tractate
   - Mandoki, K., Everyday Aesthetics (2007), : Routledge.
     cite:mandoki:2007everyday
-  - Saito, Y., Aesthetics of the familiar : everyday life and
-    world-making (2017), : Oxford University Press.
-    cite:saito:2017familiar
-  - Saito, Y., Everyday Aesthetics (2008), : Oxford Unifersity Press.
-    cite:saito:2008everyday
   - Marra, M. F., Modern japanese aesthetics: a reader (1999), :
     University of Hawaii Press.  cite:marra:1999modern
   - Marra, M. F., Essays on japan : between aesthetics and literature
@@ -339,19 +343,19 @@ burned. He agreed to this with some sorrow."
   - Marra, M. F., & Marra, M. F., The poetics of motoori norinaga: a
     hermeneutical journey (2007), : University of Hawaii Press.
     cite:marra:2007norinaga
-  - Kamo, C., McKinney, M., & Yoshida, K., Essays in idleness and
-    hōjōki (2013), : Penguin Classics.  cite:kenko:2013idleness
-  - Tsubaki, A. T., Zeami and the transition of the concept of
-    y\=ugen: a note on japanese aesthetics, Journal of Aesthetics and
-    Art Criticism, (), 55–67 (1971).  cite:tsubaki:1971zeami
   - Prusinski, L., Wabi-sabi, mono no aware, and ma: tracing
     traditional japanese aesthetics through japanese history, Studies
     on Asia, (1), 25 (2012).  cite:prusinski:2012wabi
-  - Keene, D., Japanese aesthetics, Philosophy East and West, 19(3),
-    293–306 (1969).  cite:keene:1969japanese
+  - Richie, D., A tractate on japanese aesthetics (2007), : Stone
+    Bridge Press.  cite:richie:2007tractate
+  - Saito, Y., Aesthetics of the familiar : everyday life and
+    world-making (2017), : Oxford University Press.
+    cite:saito:2017familiar
+  - Saito, Y., Everyday Aesthetics (2008), : Oxford Unifersity Press.
+    cite:saito:2008everyday
   - Tsubaki, A. T., Zeami and the transition of the concept of
     y\=ugen: a note on japanese aesthetics, Journal of Aesthetics and
     Art Criticism, (), 55–67 (1971).  cite:tsubaki:1971zeami
-  - Brecher, W. P., The aesthetics of strangeness: eccentricity and
-    madness in early modern japan (2013), : University of Hawaii
-    Press.  cite:brecher:2013strangeness
+  - Tsubaki, A. T., Zeami and the transition of the concept of
+    y\=ugen: a note on japanese aesthetics, Journal of Aesthetics and
+    Art Criticism, (), 55–67 (1971).  cite:tsubaki:1971zeami
