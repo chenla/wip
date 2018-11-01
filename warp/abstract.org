@@ -59,48 +59,53 @@ cite:brecher:2013strangeness,koren:1994wabi-sabi,juniper:2003wabi-sabi,lawrence:
 
 ** TL;DR
 
-To talk of civilization is to step back so far from ourselves that the
-individual no longer exist.  It is to see a forest in which we are
-just another tree lost in the canopy.  Civilization is the totality of
-a way of life that manifests itself as a process stack with each layer
-representing a different rate of change and abstraction.
+To speak of civilization is to step back so far from ourselves that
+the individual no longer exists, just another tree lost in the canopy.
+Civilization is the totality of a collective way of life manifesting
+as a process stack with each layer a different rate of change, a
+higher level of abstraction.
 
-   Civilization is not a built thing made from coin, brick, ego or
-   other friable fare.  These things are side-effects that emerge from
+   Civilization is not a made thing built from coin, brick, ego or
+   other friable fare, impermanent side-effects emerging from
    generative processes on the periphery of our awareness.  You can't
    design or plan a civilization any more than you can a tree.  You
    can prune, graft, transplant, stunt or kill it but it can only
    follow it's own genetic perogrative to grow as best it can in the
-   context it happens to be find itself in.  With great patience you
+   context it happens to find itself in.  With great patience you
    might be able to train it to grow into a specific form, but
    invariably it will outlive you and its next caretaker or the one
-   after that will tire of playing someone else's game.
+   after that will tire of playing someone else's game.  The tree's
+   life is belongs to a different scale, it might be powerless to stop
+   you, but it can afford to wait you out.
 
-   Civilization is physical as much as it is an concept, ideal and
-   entrenched habit.  Like the noun Viking, Civilization is also a
+   Civilization is as physical as it is an concept, ideal and
+   entrenched habit.  Like the noun /Viking/, Civilization is also a
    verb.  We /practice/ civilization as much as we live within one.
    Civilization is simply the accumulated practice, knowledge and made
    things that are part and parcel of cooperation. It can be thought
    of as a very slow mill, grinding down any king, tyrant, saint,
    savior or god that may hold sway for a lifetime or even a
-   millennia. In the end it is all reduced to grist. It's a lossy
-   process, with events and people recorded as history, then condensed
-   into legand and eventually through wear and weathered down into
-   myth; worn smooth and familar.  Herodotus got that, that history
-   was not what happened but what was /written/, and that a little is
-   lost with each retelling.
+   millennia.  It can afford to wait you out knowing that in the end
+   all will be reduced to grist. It's a lossy process, with events and
+   people recorded as history, then condensed into legand and
+   eventually weathered down into myth; worn smooth and familar.
+   Herodotus got that, that history was not what happened but what was
+   /written/, and that a little is lost with each retelling.
+
+   History is what was written,
+
+   Legand is what is remembered and spoken after history is lost, 
+
+   Myth is ...
+
 
    Myth is often dismissed as a fiction -- but Herodotus knew better,
-   and that you had to place accounts of what was written in context
-   with what was believed to produce an approximation of truth.  Myth
-   as narrative, and scaffolding for WorldViews, is what's left of the
-   past, in the present.
-
-   Civilization is the accumulation of all that falls on the threshing
-   floor, collecting what has was torn loose admist the physicality as
-   process, of the present becoming something else.  As the character
-   Hannibal Lector said, "be grateful. Our scars have the power to
-   remind us that the past was real."[fn:1]
+   that what was written must be placed in context with what was
+   believed to produce an approximation of truth.  Myth is the mass of
+   detritus, the sweepings of the moment that fall on the threshing
+   floor in the process of becoming... something else.  As the
+   character Hannibal Lector said, "be grateful. Our scars have the
+   power to remind us that the past was real."[fn:1]
 
 This doesn't help get us on the same page when talking about the
 /idea/ of civilization which has devolved into an ink blot test which
@@ -126,7 +131,8 @@ no clear boundries or substance.
    begin and hang our hat on.
 
 #+begin_quote
-[Vico's] division of the development of human society into three ages:
+Giambattista Vico was a practical roundheaded Neapolitan.... His
+division of the development of human society into three ages:
 Theocratic, Heroic, Human (civilized), with a corresponding
 classification of language Hieroglyphic (sacred), Metaphorical
 (poetic), Philosophical (capable of abstraction and generalisation),
@@ -141,17 +147,17 @@ described by himself as '/tutto il corpo... la chiave masetra... dell'
 opera/', that appears the unqualified originality of his mind; here he
 evolved a theory of the origins of poetry and language, the
 significance of myth, and the nature of barbaric civilization that
-must have appeared nothing less than an impertanant outrage against
+must have appeared nothing less than an impertinent outrage against
 tradition.... [pp.4-5]
 #+end_quote
 
 This is as good a place as any to try to get a handle on /what/
-civilization is, because it's not any one thing, and there is so much
-contention and discord among historians of what constitutes a
-civilization that the term has been replaced by the bland moniker
-/complex societies/ as if stuffing it in a closet is going to make it
-go away.  Better we confront this head on. To do this, Vico's 19th
-century thesis remains a remarkably sturdy inflection point.
+civilization is, because it's not any one thing.  There is so much
+contention and discord in academia of what constitutes a civilization
+that some have replaced the term with the bland moniker /complex
+society/ as if stuffing it in a closet is going to make it go away.
+Better we confront this head on. Vico's 18th century thesis provides a
+remarkably sturdy inflection point to do just that.
 
 #+begin_quote
 It is first necessary to condense the thesis of Vico, the scientific
@@ -172,12 +178,12 @@ utility, convenience, pleasure, luxury, abuse of luxury : and their
 incarnate manifestations : Polyphemus, Achilles, Caesar and Alexander,
 Tiberius, Caligula and Nero.  At this point Vico applies Bruno —
 though he takes very good care not to say so[fn:2] — and proceeds from
-rather arbitrary data to philosophical abstraction.  There is no
+rather arbitrary data to philosophical abstraction. There is no
 difference, says Bruno between the smallest possible chord and the
 smallest possible arc, no difference between the infinite circle and
 the straight line. The maxima and minima of particular contraries are
 one and indifferent. Minimal heat equals minimal cold. Consequently
-transmutations are circular.  The principle (minimum) of cone contrary
+transmutations are circular.  The principle (minimum) of one contrary
 takes its movement from the principle (maximum) of another.  Therefore
 not only do minima coincide with the minima, the maxima with the
 maxima, but the minima with the maxima in the succession of
@@ -188,33 +194,32 @@ with God, the universal monad, Monad of monads.  From these
 considerations Vico evolved a Science and Philosophy of History, It
 may be an amusing exercise to take an historical figure, such as
 Scipio, and label him No.3; it is of no ultimate importance.  What is
-of ultimate importance is the recognition that the passage from
-Scipio to Caesar is as inevitable as the the passage from Caesar to
-Tiberius since the flowers of corruption in Scipio and Caesar are the
-seeds of vitality in Caesar and Tiberius.  Thus we have the spectacle
-of a human progression that depends for its movement on individuals,
-and which at the same time is independent of individuals in virtue of
-what appears to be a preordained cyclicism.  It follows that History
-is neither to be considered as a formless structure, due exclusively
-to the achievements of individual agents, nor as possessing reality
-apart from and independent of them accomplished behind their backs in
-spite of them, the work of some superior force, variously known as
-Fate, Chance, Fortune, God.  Both these views, the materialistic and
-the transcendental, Vico rejects in favour of the rational.
-Individuality is the concretion of universality, and every individual
-action is at the same time superindividual.  The individual and the
-universal cannot be considered as indistinct from each other. History
-then, is not the result of Fate or Chance — in both cases the
-individual would be separated from his product — but the result of a
-Neccessity that is not Fate, of a Liberty that is not Chance (compare
-Dante's 'yoke of liberty').  This force he called Divine Providence,
-with his tongue, one feels, very much in his cheek.  And it is to this
-Providence that we must trace the three institutions common to every
-society : Church, Marriage, Burial.  This is not Boussuet's
-Providence, transcendental and miraculous, but immanent and the stuff
-of human life, working by natural means.  Humanity is its work in
-itself.  God acts on her, but by means of her.  Humanity is divine,
-but no man is divine.
+of ultimate importance is the recognition that the passage from Scipio
+to Caesar is as inevitable as the the passage from Caesar to Tiberius
+since the flowers of corruption in Scipio and Caesar are the seeds of
+vitality in Caesar and Tiberius.  Thus we have the spectacle of a
+human progression that depends for its movement on individuals, and
+which at the same time is independent of individuals in virtue of what
+appears to be a preordained cyclicism.  It follows that History is
+neither to be considered as a formless structure, due exclusively to
+the achievements of individual agents, nor as possessing reality apart
+from and independent of them accomplished behind their backs in spite
+of them, the work of some superior force, variously known as Fate,
+Chance, Fortune, God.  Both these views, the materialistic and the
+transcendental, Vico rejects in favour of the rational.  Individuality
+is the concretion of universality, and every individual action is at
+the same time superindividual.  The individual and the universal
+cannot be considered as indistinct from each other. History then, is
+not the result of Fate or Chance — in both cases the individual would
+be separated from his product — but the result of a Neccessity that is
+not Fate, of a Liberty that is not Chance (compare Dante's 'yoke of
+liberty').  This force he called Divine Providence, with his tongue,
+one feels, very much in his cheek.  And it is to this Providence that
+we must trace the three institutions common to every society : Church,
+Marriage, Burial.  This is not Boussuet's Providence, transcendental
+and miraculous, but immanent and the stuff of human life, working by
+natural means.  Humanity is its work in itself.  God acts on her, but
+by means of her.  Humanity is divine, but no man is divine.
 
 — /Dante... Bruno. Vico.. Joyce/, Samuel Beckett (1929)
   cite:beckett:1929exagmination
