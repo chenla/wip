@@ -1,0 +1,52 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:   Projects Contents
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Projects Contents
+  :PROPERTIES:
+  :CUSTOM_ID:
+  :Name:      /home/deerpig/proj/chenla/wip/proj/index.org
+  :Created:   2018-11-01T09:35@Prek Leap (11.642600N-104.919210W)
+  :ID:        900ebbc8-1fd5-4d7d-bdd1-46fb05f6e292
+  :VER:       594311823.583879431
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:VVH3-1451
+  :Class:     primer
+  :Entity:    toc
+  :Status:    wip 
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+  - Contents
+  - [[./abstract.org][Abstract]]
+  - [[./intro.org][Introduction]]
+
+
+  - doorstep
+    - materials
+      - bamboo
+      - 
+    - buildings
+      - construction
+      - finance
+      - rammed earth
+      - wikihouse
+      - pv-tiles
+  - d9d
+  - saltmine
+  - bento
+    - 
+  - chalkhall
+    - trivium
+    - big history
