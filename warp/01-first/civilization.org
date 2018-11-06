@@ -1,0 +1,123 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Civilization 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Civilization
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/wip/warp/01-first/civilization.org
+  :Created:   2018-11-06T16:47@Prek Leap (11.642600N-104.919210W)
+  :ID:        adb5d67b-cdde-4db5-8bee-1b099115a980
+  :VER:       594769686.224908505
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:NLI3-1707
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+** Scope
+** TL;DR
+
+
+*** nomenclature, etymology
+
+
+
+*** civilization <-> Barbarism
+
+Civilization as in opposition Barbarism is a conceit -- so-called
+barbaric societies are rich complex systems that share pretty much all
+of the traits of a civilization save, a sedantary lifestyle, man made
+buildings and settlements, cultivated monoculture of domesticated
+species of plants and animals.  These have always been portrayed as
+being in opposition, with one being superior to the other -- but this
+is a value judgement that has survived because of writing systems,
+without any record of what life was like on the other side.  In fact,
+civlization is, in large part, the story of the subjegation of nomadic
+peoples by sedantary societies and power structures.  The Mongolian
+Empire was the great exception, and proved that nomadic systems could
+embody all of the so-called positive characteristics of sedantary
+civilization while still being semi-nomadic.
+
+*** singular plural
+
+The plural and the singular
+
+humanity is converging and becoming a single civilization.  For all
+practical purposes it already is.
+
+*** cop out -- complex societies
+
+The rejection of the term civilization in favor of the term /complex
+societies/ is not satisfactory as it reduces humanity as a whole to a
+complex system -- which is what it is, but not that it is something
+unique among all animal societies and is far greater than the sum of
+it's parts.
+
+As such, we will call what we are building, simply, /the culture/ as
+used by Iain Banks, as both the material way of life and
+infrastructure, together with the normative principles, values and
+ideals of a culture.
+
+*** the clean and well-lit prison
+
+clash of civilization -- narrow definition of a subset of culture as
+religion or ideology.
+
+the whole clash of civilizations rubbish.
+
+*** Techne and Mētis
+
+Material life, technology -- settlements, buildings, agriculture,
+writing, mathematics, tools, economic and social structures.
+
+*** Culture
+
+way of life, normative principles, values and ideals.
+
+
+*** Mankind
+
+Originally collective homo sapiens, Sapians -- if we broaden our scope
+and context we should include all of Man which includes all of our
+fellow subspecies of Man.  This is important because the concept of
+Man is more inclusive, that encompasses what we are and what we will
+become.
+
+Our nature, our imperitive is to extend and externalize our mind,
+memory and muscle.  Because of that we must include other species
+other than our fellow Men to include domesticated species who are part
+of us, dog, cat, chicken, horse, pig, cow.  The list is short.
+
+
+*** Usage
+
+Our usage in W&W will be:
+
+  - Civilizations : usage before 1900 when there were multiple
+    civilizations.  Each had it's own sustainible material and
+    economic system, each had their own culture.  There were multiple
+    such systems
+
+
+
+
+** References
+
+

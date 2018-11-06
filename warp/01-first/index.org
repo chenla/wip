@@ -31,6 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
+  - [[./civilization.org][Civilization]]
   - [[./scale.org][Scale]]
   - Population
   - Temperature
