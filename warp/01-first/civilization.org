@@ -91,7 +91,6 @@ writing, mathematics, tools, economic and social structures.
 
 way of life, normative principles, values and ideals.
 
-
 *** Mankind
 
 Originally collective homo sapiens, Sapians -- if we broaden our scope
@@ -113,8 +112,58 @@ Our usage in W&W will be:
   - Civilizations : usage before 1900 when there were multiple
     civilizations.  Each had it's own sustainible material and
     economic system, each had their own culture.  There were multiple
-    such systems
+    such systems and if one collapsed the others absorbed or rebooted
+    what was left.
 
+  - Civilization : usage of a single global civilization
+
+  - The Culture : what we're building.  We set it apart because it is
+    different from what came before -- 
+
+
+** The Merge
+
+
+The thing is, that civilization has scaled far larger than it should
+have.  And we have been kicking out the supports, all of the negative
+feedback loops that have kept things running, from tipping into a
+runnaway postive feedback loop.
+
+Civilization was built on nomadic social structures that evolved from
+life on the Savannah.  But neither is what is commonly thought.
+Humans have always been territorial -- we learn to adapt to a
+territory and if there isn't a good reason, we stay there.  But these
+were territories we moved around in, the city had it's roots in cyclic
+seasonal ad hoc gatherings.  We came together, we played house for a
+day, a week, a month or so and then disbanded.  We found that we could
+gather and cooperate in large numbers for relatively short periods of
+time.  We built stuff, monuments, shelters and other trappings that
+eventually became the hallmark of what we think of as civilizations
+today.  But, like madi gras, or the modern Olympics, SXSW, Ramadan,
+Woodstock or burning man we did our thing and then scattered until the
+next time.
+
+The temporary very temporary nature of such transitory cities was a
+feature not a bug.  We found that we could scale human cooperation
+beyond the the size of the band, or tribe.  We got better at these
+gatherings.  Language evolved to make ever more complex cooperation
+possible.  A highly clement Holocene made possible to create surpluses
+that gave us breathing room, spare time to think, to innovate.  It's
+no surprise that what became civilization started in highly hospitable
+climates.  The Indus Valley, the SE Asian Savannahs, the
+Mediterranean.  These were literal Edens where Man flourished and had
+the free time to make ever more ways of making even more free time.
+
+Eventually we hit a tipping point and we got cocky and some of us
+stopped disbanding and began the first all-year settlements.
+
+
+
+ ----- we eventually bring Havelock in -- he gives us the transition
+ from the oral to the written, from cognitive extension to cognitive
+ externalization.
+
+ 
 
 
 
