@@ -37,9 +37,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 
 Doorstep is a long term test bed for implementing and testing ideas
-for building a sustainable, distributed, federated, technological,
-human scale civilization developed by the Chenla Institute.  The idea
-is that everything we are developing begins at one's doorstep.
+for building a sustainable, distributed, human scale civilization
+developed by the Chenla Institute.  The idea is that everything we are
+developing begins at one's doorstep.
 
 Work will center around a 3 hectare experimental farm located on Silk
 Island across the Mekong River from the Chenla Institute offices on
